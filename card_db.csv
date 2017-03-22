@@ -4,14 +4,14 @@
 ,Magic,Septic Haze,1.0.0,Y,Earth Witch,Attack,Earth,Uncommon,4,Multi,None,35%,Poison,52,
 ,Magic,Earthen Remedy,1.0.0,Y,Earth Witch,Heal,Earth,Uncommon,2,Single,Cure Poison,25%,Critical Hit,74,
 ,Magic,Startling Heat,1.0.0,Y,Fire Mage,Attack,Fire,Common,3,Single,None,20%,Stun,55,
-68f4b5b0-3cfe-4c45-84b3-d987ae7c10aa,Magic,Smoking Missile,1.0.0,Y,Fire Mage,Attack,Fire,Common,2,Single,None,15%,Burn,35,
+68f4b5b0-3cfe-4c45-84b3-d987ae7c10aa,Magic,Smoking Missile,1.0.0,Y,Fire Mage,Attack,Fire,Common,2,Single,None,15%,Burn,35,154
 ,Magic,Burning Missile,1.0.0,Y,Fire Mage,Attack,Fire,Rare,3,Single,Burn,20%,Oil,58,
 ,Magic,Ember Blast,1.0.0,Y,Fire Mage,Attack,Fire,Uncommon,4,Multi,None,35%,Burn,53,
 ,Magic,Flaming Protect,1.0.0,Y,Fire Mage,Shield,Fire,Uncommon,2,Single,None,25%,Critical Hit,86,
 ,Magic,Startle Staff,1.0.0,Y,Neutral Magic,Attack,Neutral,Common,2,Single,None,15%,Stun,31,
 ,Magic,Glowing Staff,1.0.0,Y,Neutral Magic,Attack,Neutral,Common,3,Single,None,20%,Accuracy Down,47,
 ,Magic,Magic Grenade,1.0.0,Y,Neutral Magic,Attack,Neutral,Common,3,Splash,None,20%,Critical Hit,35,
-af8df4d1-2a2f-4b2b-ace9-aa47ed98b268,Magic,Magic Missile,1.0.0,Y,Neutral Magic,Attack,Neutral,Common,1,Single,None,10%,Interrupt,15,
+af8df4d1-2a2f-4b2b-ace9-aa47ed98b268,Magic,Magic Missile,1.0.0,Y,Neutral Magic,Attack,Neutral,Common,1,Single,None,10%,Interrupt,15,64
 ,Magic,Misguided Rocket,1.0.0,Y,Neutral Magic,Attack,Neutral,Common,1,Single,Chance to Miss,10%,Interrupt,19,
 94987f5a-8115-4159-a77d-2cf056087b90,Magic,Time Control,1.0.0,Y,Neutral Magic,Attack,Neutral,Common,3,Single,None,20%,SPD Down,50,
 ,Magic,Stunning Staff,1.0.0,Y,Neutral Magic,Attack,Neutral,Rare,2,Single,Stun,15%,Interrupt,34,
@@ -21,7 +21,7 @@ af8df4d1-2a2f-4b2b-ace9-aa47ed98b268,Magic,Magic Missile,1.0.0,Y,Neutral Magic,A
 ,Magic,Magical Grenade,1.0.0,Y,Neutral Magic,Attack,Neutral,Uncommon,3,Splash,None,30%,Critical Hit,38,
 ,Magic,Multi-Missile,1.0.0,Y,Neutral Magic,Attack,Neutral,Uncommon,3,Multi,None,30%,Interrupt,34,
 ,Magic,Unruly Rocket,1.0.0,Y,Neutral Magic,Attack,Neutral,Uncommon,1,Single,Chance to Miss,20%,Interrupt,20,
-882df138-ff06-4640-934a-6df0cff2b6dc,Magic,Healing Spell,1.0.0,Y,Neutral Magic,Heal,Neutral,Common,1,Single,None,10%,Critical Hit,40,
+882df138-ff06-4640-934a-6df0cff2b6dc,Magic,Healing Spell,1.0.0,Y,Neutral Magic,Heal,Neutral,Common,1,Single,None,10%,Critical Hit,40,176
 ,Magic,Heal Party,1.0.0,Y,Neutral Magic,Heal,Neutral,Uncommon,1,Multi,None,20%,Critical Hit,26,
 ,Magic,Regen,1.0.0,Y,Neutral Magic,Heal,Neutral,Uncommon,2,Single,Regen,25%,Critical Hit,122,
 ,Magic,Bubble Shield,1.0.0,Y,Neutral Magic,Shield,Neutral,Common,1,Single,None,10%,Critical Hit,33,
@@ -116,7 +116,7 @@ e3c11106-75c8-4900-8d31-9a781a690b93,Skill,Fairy Bottle,1.0.0,Y,Earth Elf,Heal,E
 ,Skill,Flared Up,1.0.0,Y,Spirit Thief,Attack,Spirit,Super Rare,4,Multi,Accuracy Down,35%,Interrupt,57,
 ,Skill,Bemuse Dart,1.0.0,Y,Spirit Thief,Attack,Spirit,Uncommon,2,SIngle,None,25%,Confuse,37,
 ,Magic,Arcane Missile,1.0.5,Y,Neutral Magic,Attack,Neutral,Rare,1,Single,None,20%,Interrupt,18,
-2bb53066-5131-4b00-a482-2df376b9dfd0,Magic,Healing Soul,1.0.5,Y,Neutral Magic,Heal,Neutral,Rare,1,Single,None,20%,Critical Hit,50,
+2bb53066-5131-4b00-a482-2df376b9dfd0,Magic,Healing Soul,1.0.5,Y,Neutral Magic,Heal,Neutral,Rare,1,Single,None,20%,Critical Hit,50,2467
 ,Magic,Drop Shield,1.0.5,Y,Neutral Magic,Shield,Neutral,Rare,1,Single,None,20%,Critical Hit,40,
 ,Might,Interrupt Sword,1.0.5,Y,Neutral Might,Attack,Neutral,Rare,4,Single,Interrupt,25%,Interrupt,84,
 ,Might,Gravy Barrel,1.0.5,Y,Neutral Might,Heal,Neutral,Rare,1,Self,None,20%,ATK Up,43,
@@ -127,7 +127,7 @@ e3c11106-75c8-4900-8d31-9a781a690b93,Skill,Fairy Bottle,1.0.0,Y,Earth Elf,Heal,E
 ,Magic,Vine Wrap,1.0.6,Y,Earth Witch,Attack,Earth,Super Rare,2,Single,Sap,25%,Terra,35,
 ,Magic,Dazed Earth,1.0.6,Y,Earth Witch,Attack,Earth,Uncommon,3,Single,None,30%,Stun,60,
 ,Magic,Glowing Flame,1.0.6,Y,Fire Mage,Attack,Fire,Common,3,Single,None,20%,Accuracy Down,52,
-03e610af-ae4b-4bc7-9ca2-08d4344efd52,Magic,Blinding Flame,1.0.6,Y,Fire Mage,Attack,Fire,Rare,3,Single,Accuracy Down,20%,Interrupt,58,
+03e610af-ae4b-4bc7-9ca2-08d4344efd52,Magic,Blinding Flame,1.0.6,Y,Fire Mage,Attack,Fire,Rare,3,Single,Accuracy Down,20%,Interrupt,58,2862
 ,Magic,Burning Blast,1.0.6,Y,Fire Mage,Attack,Fire,Rare,4,Multi,Burn,25%,Interrupt,50,
 ,Magic,Fuming Bunny,1.0.6,Y,Fire Mage,Attack,Fire,Super Rare,1,Single,Burn,20%,Oil,19,
 ,Magic,Dazed Heat,1.0.6,Y,Fire Mage,Attack,Fire,Uncommon,3,Single,None,30%,Stun,60,
@@ -192,7 +192,7 @@ e3c11106-75c8-4900-8d31-9a781a690b93,Skill,Fairy Bottle,1.0.0,Y,Earth Elf,Heal,E
 ,Might,Bronze Shield,1.0.8,Y,Neutral Might,Shield,Neutral,Uncommon,1,Self,None,20%,Critical Hit,29,
 ,Might,Wet Kiss,1.0.8,Y,Water Valkyrie,Heal,Water,Super Rare,2,Self,Charm,25%,Critical Hit,69,
 ,Skill,Healing Light,1.0.8,Y,Air Ranger,Shield,Air,Super Rare,1,Multi,None,20%,Critical Hit,22,
-a2e873b7-6729-40da-9af1-ccbd73b12aea,Skill,Acid Splash,1.0.8,Y,Earth Elf,Attack,Earth,Super Rare,3,Splash,Poison,30%,Terra,42,
+a2e873b7-6729-40da-9af1-ccbd73b12aea,Skill,Acid Splash,1.0.8,Y,Earth Elf,Attack,Earth,Super Rare,3,Splash,Poison,30%,Terra,42,4485
 ,Skill,Diverting Arrow,1.0.8,Y,Neutral Skill,Attack,Neutral,Rare,3,Splash,None,40%,Critical Hit,43,
 ,Skill,Silver Dart,1.0.8,Y,Neutral Skill,Attack,Neutral,Rare,1,Single,None,30%,Critical Hit,15,
 ,Skill,Bronze Dart,1.0.8,Y,Neutral Skill,Attack,Neutral,Uncommon,1,Single,None,20%,Critical Hit,13,

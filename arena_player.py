@@ -4,7 +4,7 @@ import io
 import math
 import csv
 
-f = open("arena_player_raw.txt", "r");
+f = open("arena_player.raw", "r");
 YY = json.load(f)
 f.close()
 
@@ -14,17 +14,55 @@ card_db = {};
 
 rarity_map = {"Common":"C", "Uncommon":"UC", "Rare":"R", "Super Rare":"SR", "Legendary":"L"};
 
-rarity_coef = {"C":{"lvl":10,"coef":[]}};
+rarity_coef = {
+  "C":{
+    "lvl":10,
+    "coef":[
+      [[1.0,0.0], [1/1.8, 1/1.8]],
+      [[0.8/1.8, 0.8/1.8], [0.0,1.0]]
+      ]
+    },
+  "UC":{
+    "lvl":20,
+    "coef":[
+      [[1.0, 0.0], [1.85/2.53, 1/2.53]],
+      [[0.8*1.85/2.53, 0.8/2.53], [0.8/2.53, 1.8/2.53]],
+      [[0.85*0.8/2.53, 0.85*1.8/2.53], [0.0, 1.0]]
+      ]
+    },
+  "R":{
+    "lvl":35,
+    "coef":[
+      [[1.0,0.0], [2.628/3.2264, 1/3.2264]],
+      [[0.8*2.628/3.2264, 0.8/3.2264], [1.504/3.2264, 1.8/3.2264]],
+      [[0.85*1.504/3.2264, 1.53/3.2264], [0.68/3.2264, 2.53/3.2264]],
+      [[0.88*0.68/3.2264, 0.88*2.53/3.2264],[0.0,1.0]]
+      ]
+    },
+  "SR":{
+    "lvl":50,
+    "coef":[
+      [[4.5914592/4.5914592, 0/4.5914592], [4.095984/4.5914592, 1/4.5914592]],
+      [[3.2767872/4.5914592, 0.8/4.5914592], [2.781312/4.5914592, 1.8/4.5914592]],
+      [[2.3641152/4.5914592, 1.53/4.5914592], [1.86864/4.5914592, 2.53/4.5914592]],
+      [[1.6444032/4.5914592, 2.2264/4.5914592], [1.148928/4.5914592, 3.2264/4.5914592]],
+      [[1.0340352/4.5914592, 2.90376/4.5914592], [0.53856/4.5914592, 3.90376/4.5914592]],
+      [[0.4954752/4.5914592, 3.5914592/4.5914592], [0.0, 1.0]]
+      ]
+    }
+  };
 
-with open("card_db.txt", "rb") as csvfile:
-  csvreader = csv.reader(csvfile, delimiter="\t");
+with open("card_db.csv", "rb") as csvfile:
+  csvreader = csv.reader(csvfile);
   for row in csvreader:
     if row[0] != "":
       card_db[row[0]] = {
         "name": row[2],
         "type": row[6],
         "rarity":rarity_map[row[8]],
-        "target": row[10]
+        "target": row[10],
+        "min": row[14],
+        "max": row[15]
         };
 
 #print YY.keys()
@@ -59,7 +97,7 @@ hero_hp_coef = {
 "Logan"   : [4, 2, 134],
 "Peg"     : [4.5, 2, 153.5]}
 
-f = io.open("arena_player", "w", encoding="utf8");
+f = io.open("arena_player.out", "w", encoding="utf8");
 for p1 in YY:
   for x, p2 in p1.iteritems():
     for uid, player in p2.iteritems():
@@ -76,9 +114,17 @@ for p1 in YY:
           card_name = card["configId"];
           if card_name in card_db:
             card_info = card_db[card_name];
-            f.write(u"    ({rarity:>2s},{0},{1:2d}): {type} {target} : {name}\n".format(card["evolutionLevel"], card["level"]+1, **card_info));
-            card_name = "(" + card_info["rarity"] + ")" + card_info["name"] + ":" + card_info["type"] + " " + card_info["target"];
+            min_v = float(card_info["min"]);
+            max_v = float(card_info["max"]);
+            val = 0;
+            if card_info["rarity"] in rarity_coef:
+              lvl = rarity_coef[card_info["rarity"]]["lvl"];
+              coef = rarity_coef[card_info["rarity"]]["coef"][card["evolutionLevel"]];
+              lmin = min_v * coef[0][0] + max_v * coef[0][1];
+              lmax = min_v * coef[1][0] + max_v * coef[1][1];
+              val = (lmax - lmin) / (lvl - 1) * card["level"] + lmin;
+            f.write(u"    ({rarity:>2s},{0},{1:2d}, {2:7.1f}): {type} {target} : {name}\n".format(card["evolutionLevel"], card["level"]+1, val, **card_info));
           else:
-            f.write(u"    ( _,{1},{2:2d}): : {0}\n".format(card_name, card["evolutionLevel"], card["level"]+1));
+            f.write(u"    ( _,{1},{2:2d},      .0): : {0}\n".format(card_name, card["evolutionLevel"], card["level"]+1));
 
 f.close();          
