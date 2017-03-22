@@ -42,6 +42,16 @@ rarity_coef = {
   "SR":{
     "lvl":50,
     "coef":[
+      [[3.90376/3.90376, 0/3.90376], [3.3652/3.90376, 1/3.90376]],
+      [[2.69216/3.90376, 0.8/3.90376], [2.1536/3.90376, 1.8/3.90376]], 
+      [[1.83056/3.90376, 1.53/3.90376], [1.292/3.90376, 2.53/3.90376]], 
+      [[1.13696/3.90376, 2.2264/3.90376], [0.5984/3.90376, 3.2264/3.90376]], 
+      [[0.53856/3.90376, 2.90376/3.90376], [0/3.90376, 3.90376/3.90376]]
+      ]
+    },    
+  "L":{
+    "lvl":60,
+    "coef":[
       [[4.5914592/4.5914592, 0/4.5914592], [4.095984/4.5914592, 1/4.5914592]],
       [[3.2767872/4.5914592, 0.8/4.5914592], [2.781312/4.5914592, 1.8/4.5914592]],
       [[2.3641152/4.5914592, 1.53/4.5914592], [1.86864/4.5914592, 2.53/4.5914592]],
@@ -60,6 +70,7 @@ with open("card_db.csv", "rb") as csvfile:
         "name": row[2],
         "type": row[6],
         "rarity":rarity_map[row[8]],
+        "delay":int(row[9]),
         "target": row[10],
         "min": row[14],
         "max": row[15]
@@ -114,6 +125,8 @@ for p1 in YY:
           card_name = card["configId"];
           if card_name in card_db:
             card_info = card_db[card_name];
+            #print(card_name);
+            #print(card_info["max"]);
             min_v = float(card_info["min"]);
             max_v = float(card_info["max"]);
             val = 0;
@@ -122,9 +135,13 @@ for p1 in YY:
               coef = rarity_coef[card_info["rarity"]]["coef"][card["evolutionLevel"]];
               lmin = min_v * coef[0][0] + max_v * coef[0][1];
               lmax = min_v * coef[1][0] + max_v * coef[1][1];
+              #print(card_info["name"]);
+              #print(lmin, lmax);
+              #print(min_v, max_v);
+              #print(coef);
               val = (lmax - lmin) / (lvl - 1) * card["level"] + lmin;
-            f.write(u"    ({rarity:>2s},{0},{1:2d}, {2:7.1f}): {type} {target} : {name}\n".format(card["evolutionLevel"], card["level"]+1, val, **card_info));
+            f.write(u"    ({rarity:>2s},{0},{1:2d},{delay:d}, {2:7.1f}): {type} {target} : {name}\n".format(card["evolutionLevel"], card["level"]+1, val, **card_info));
           else:
-            f.write(u"    ( _,{1},{2:2d},      .0): : {0}\n".format(card_name, card["evolutionLevel"], card["level"]+1));
+            f.write(u"    ( _,{1},{2:2d}, ,      .0): : {0}\n".format(card_name, card["evolutionLevel"], card["level"]+1));
 
 f.close();          
