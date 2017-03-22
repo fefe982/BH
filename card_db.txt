@@ -1,0 +1,373 @@
+	Magic	Grounded Missile	1.0.0	Y	Earth Witch	Attack	Earth	Common	2	Single	None	15%	Terra	36	
+	Magic	Noxious Mist	1.0.0	Y	Earth Witch	Attack	Earth	Common	4	Multi	None	25%	Poison	48	
+	Magic	Poison Cloud	1.0.0	Y	Earth Witch	Attack	Earth	Rare	4	Multi	Poison	25%	Terra	50	
+	Magic	Septic Haze	1.0.0	Y	Earth Witch	Attack	Earth	Uncommon	4	Multi	None	35%	Poison	52	
+	Magic	Earthen Remedy	1.0.0	Y	Earth Witch	Heal	Earth	Uncommon	2	Single	Cure Poison	25%	Critical Hit	74	
+	Magic	Startling Heat	1.0.0	Y	Fire Mage	Attack	Fire	Common	3	Single	None	20%	Stun	55	
+68f4b5b0-3cfe-4c45-84b3-d987ae7c10aa	Magic	Smoking Missile	1.0.0	Y	Fire Mage	Attack	Fire	Common	2	Single	None	15%	Burn	35	
+	Magic	Burning Missile	1.0.0	Y	Fire Mage	Attack	Fire	Rare	3	Single	Burn	20%	Oil	58	
+	Magic	Ember Blast	1.0.0	Y	Fire Mage	Attack	Fire	Uncommon	4	Multi	None	35%	Burn	53	
+	Magic	Flaming Protect	1.0.0	Y	Fire Mage	Shield	Fire	Uncommon	2	Single	None	25%	Critical Hit	86	
+	Magic	Startle Staff	1.0.0	Y	Neutral Magic	Attack	Neutral	Common	2	Single	None	15%	Stun	31	
+	Magic	Glowing Staff	1.0.0	Y	Neutral Magic	Attack	Neutral	Common	3	Single	None	20%	Accuracy Down	47	
+	Magic	Magic Grenade	1.0.0	Y	Neutral Magic	Attack	Neutral	Common	3	Splash	None	20%	Critical Hit	35	
+af8df4d1-2a2f-4b2b-ace9-aa47ed98b268	Magic	Magic Missile	1.0.0	Y	Neutral Magic	Attack	Neutral	Common	1	Single	None	10%	Interrupt	15	
+	Magic	Misguided Rocket	1.0.0	Y	Neutral Magic	Attack	Neutral	Common	1	Single	Chance to Miss	10%	Interrupt	19	
+94987f5a-8115-4159-a77d-2cf056087b90	Magic	Time Control	1.0.0	Y	Neutral Magic	Attack	Neutral	Common	3	Single	None	20%	SPD Down	50	
+	Magic	Stunning Staff	1.0.0	Y	Neutral Magic	Attack	Neutral	Rare	2	Single	Stun	15%	Interrupt	34	
+	Magic	Epicentre	1.0.0	Y	Neutral Magic	Attack	Neutral	Rare	4	Multi	Interrupt	25%	Interrupt	50	
+	Magic	Sleeping Sceptre	1.0.0	Y	Neutral Magic	Attack	Neutral	Rare	3	Single	Sleep	20%	SPD Down	49	
+	Magic	Dazed Staff	1.0.0	Y	Neutral Magic	Attack	Neutral	Uncommon	2	Single	None	25%	Stun	33	
+	Magic	Magical Grenade	1.0.0	Y	Neutral Magic	Attack	Neutral	Uncommon	3	Splash	None	30%	Critical Hit	38	
+	Magic	Multi-Missile	1.0.0	Y	Neutral Magic	Attack	Neutral	Uncommon	3	Multi	None	30%	Interrupt	34	
+	Magic	Unruly Rocket	1.0.0	Y	Neutral Magic	Attack	Neutral	Uncommon	1	Single	Chance to Miss	20%	Interrupt	20	
+882df138-ff06-4640-934a-6df0cff2b6dc	Magic	Healing Spell	1.0.0	Y	Neutral Magic	Heal	Neutral	Common	1	Single	None	10%	Critical Hit	40	
+	Magic	Heal Party	1.0.0	Y	Neutral Magic	Heal	Neutral	Uncommon	1	Multi	None	20%	Critical Hit	26	
+	Magic	Regen	1.0.0	Y	Neutral Magic	Heal	Neutral	Uncommon	2	Single	Regen	25%	Critical Hit	122	
+	Magic	Bubble Shield	1.0.0	Y	Neutral Magic	Shield	Neutral	Common	1	Single	None	10%	Critical Hit	33	
+	Magic	Party Bubble	1.0.0	Y	Neutral Magic	Shield	Neutral	Rare	1	Multi	None	20%	ATK Up	23	
+	Magic	Baffling Mist	1.0.0	Y	Spirit Sorcerer	Attack	Spirit	Common	4	Multi	None	25%	Confuse	48	
+	Magic	Shade Missile	1.0.0	Y	Spirit Sorcerer	Attack	Spirit	Common	2	Single	None	15%	Darken	36	
+	Magic	Blinding Spirit	1.0.0	Y	Spirit Sorcerer	Attack	Spirit	Rare	2	Single	Accuracy Down	15%	Interrupt	35	
+	Magic	Confuse Cloud	1.0.0	Y	Spirit Sorcerer	Attack	Spirit	Rare	4	Multi	Confuse	25%	Darken	53	
+	Magic	Life Leecher	1.0.0	Y	Spirit Sorcerer	Attack	Spirit	Rare	3	Single	Leech	20%	Bleed	53	
+	Magic	Bemuse Haze	1.0.0	Y	Spirit Sorcerer	Attack	Spirit	Uncommon	4	Multi	None	35%	Confuse	52	
+	Magic	Shadow Missile	1.0.0	Y	Spirit Sorcerer	Attack	Spirit	Uncommon	2	Single	None	25%	Darken	39	
+	Magic	Mystic Shield	1.0.0	Y	Spirit Sorcerer	Shield	Spirit	Uncommon	1	Single	None	20%	Critical Hit	39	
+	Magic	Cool Missile	1.0.0	Y	Water Monk	Attack	Water	Common	2	Single	None	15%	Chill	24	
+	Magic	Drippy Missile	1.0.0	Y	Water Monk	Attack	Water	Common	2	Single	None	15%	Wet	36	
+	Magic	Chill Stones	1.0.0	Y	Water Monk	Attack	Water	Rare	4	Multi	Chill	25%	Wet	37	
+	Magic	Tidal Kick	1.0.0	Y	Water Monk	Attack	Water	Rare	4	Single	Stun	25%	Wet	88	
+	Magic	Cold Breeze	1.0.0	Y	Water Monk	Attack	Water	Uncommon	4	Multi	None	35%	Chill	36	
+	Magic	Meditation	1.0.0	Y	Water Monk	Heal	Water	Super Rare	1	Self	Regen	20%	Critical Hit	162	
+	Magic	Water Shield	1.0.0	Y	Water Monk	Shield	Water	Uncommon	2	Single	None	25%	Critical Hit	86	
+	Might	Wind Dagger	1.0.0	Y	Air Paladin	Attack	Air	Common	2	Single	None	15%	Storm	36	
+	Might	Sparking Blade	1.0.0	Y	Air Paladin	Attack	Air	Common	4	Single	None	25%	Shock	85	
+	Might	Shocking Sword	1.0.0	Y	Air Paladin	Attack	Air	Rare	4	Single	Shock	25%	Storm	83	
+	Might	Hammer of God	1.0.0	Y	Air Paladin	Attack	Air	Super Rare	5	Splash	Shock	40%	Storm	104	
+	Might	Charged Sword	1.0.0	Y	Air Paladin	Attack	Air	Uncommon	4	Single	None	35%	Shock	91	
+	Might	Clear Head	1.0.0	Y	Air Paladin	Heal	Air	Uncommon	2	Self	Cure Confuse	25%	Critical Hit	61	
+	Might	Flaming Axe	1.0.0	Y	Fire Berserker	Attack	Fire	Common	5	Multi	None	30%	Critical Hit	57	
+	Might	Smoking Dagger	1.0.0	Y	Fire Berserker	Attack	Fire	Common	2	Single	None	15%	Burn	35	
+	Might	Burning Blade	1.0.0	Y	Fire Berserker	Attack	Fire	Rare	4	Single	Burn	25%	Oil	83	
+	Might	Burning Dagger	1.0.0	Y	Fire Berserker	Attack	Fire	Rare	2	Single	Burn	15%	Oil	35	
+	Might	Ember Dagger	1.0.0	Y	Fire Berserker	Attack	Fire	Uncommon	2	Single	None	25%	Burn	38	
+	Might	Flaming Shield	1.0.0	Y	Fire Berserker	Shield	Fire	Uncommon	2	Self	None	25%	Critical Hit	70	
+	Might	Blunt Sword	1.0.0	Y	Neutral Might	Attack	Neutral	Common	4	Single	None	25%	Interrupt	76	
+	Might	Cutting Dagger	1.0.0	Y	Neutral Might	Attack	Neutral	Common	1	Single	None	10%	Bleed	15	
+	Might	Startling Rock	1.0.0	Y	Neutral Might	Attack	Neutral	Common	3	Single	None	20%	Stun	50	
+	Might	Speedy Hatchet	1.0.0	Y	Neutral Might	Attack	Neutral	Common	3	Single	None	20%	SPD Down	50	
+	Might	Armed Bag	1.0.0	Y	Neutral Might	Attack	Neutral	Common	3	Splash	None	30%	Critical Hit	38	
+	Might	Bleeding Dagger	1.0.0	Y	Neutral Might	Attack	Neutral	Rare	1	Single	Bleed	10%	Critical Hit	12	
+	Might	War Axe	1.0.0	Y	Neutral Might	Attack	Neutral	Rare	5	Multi	None	30%	Critical Hit	63	
+	Might	Primed Bag	1.0.0	Y	Neutral Might	Attack	Neutral	Uncommon	3	Splash	None	20%	Critical Hit	35	
+	Might	Battle Axe	1.0.0	Y	Neutral Might	Attack	Neutral	Uncommon	5	Multi	None	40%	Critical Hit	55	
+	Might	Daze Boulder	1.0.0	Y	Neutral Might	Attack	Neutral	Uncommon	3	Single	None	30%	Stun	54	
+	Might	Hasty Hawk	1.0.0	Y	Neutral Might	Attack	Neutral	Uncommon	3	Single	None	30%	SPD Up	54	
+	Might	Impeding Sword	1.0.0	Y	Neutral Might	Attack	Neutral	Uncommon	4	Single	None	35%	Interrupt	82	
+	Might	Wounding Dagger	1.0.0	Y	Neutral Might	Attack	Neutral	Uncommon	1	Single	None	20%	Bleed	16	
+	Might	Gravy Bottle	1.0.0	Y	Neutral Might	Heal	Neutral	Common	1	Self	None	10%	ATK Up	35	
+	Might	Gravy Flagon	1.0.0	Y	Neutral Might	Heal	Neutral	Uncommon	1	Self	None	20%	ATK Up	38	
+	Might	Wooden Shield	1.0.0	Y	Neutral Might	Shield	Neutral	Common	1	Self	None	10%	Critical Hit	27	
+	Might	Power Shield	1.0.0	Y	Neutral Might	Shield	Neutral	Rare	1	Self	None	40%	SPD Down	37	
+	Might	Spikey Shield	1.0.0	Y	Neutral Might	Shield	Neutral	Uncommon	2	Self	ATK Down	25%	Critical Hit	51	
+	Might	Cool Blade	1.0.0	Y	Water Valkyrie	Attack	Water	Common	4	Single	None	25%	Chill	56	
+	Might	Dripping Dagger	1.0.0	Y	Water Valkyrie	Attack	Water	Common	2	Single	None	15%	Wet	36	
+	Might	Chill Blade	1.0.0	Y	Water Valkyrie	Attack	Water	Rare	4	Single	Chill	25%	Wet	62	
+	Might	Cold Blade	1.0.0	Y	Water Valkyrie	Attack	Water	Uncommon	4	Single	None	35%	Chill	61	
+	Might	Drizzle Dagger	1.0.0	Y	Water Valkyrie	Attack	Water	Uncommon	2	Single	None	25%	Wet	39	
+	Might	Healing Water	1.0.0	Y	Water Valkyrie	Heal	Water	Uncommon	2	Self	Cure Burn	25%	Critical Hit	61	
+	Skill	Wind Dart	1.0.0	Y	Air Ranger	Attack	Air	Common	1	Single	None	10%	Storm	16	
+	Skill	Sparking Pin	1.0.0	Y	Air Ranger	Attack	Air	Common	3	Single	None	20%	Shock	59	
+	Skill	Sparking Dart	1.0.0	Y	Air Ranger	Attack	Air	Common	2	Single	None	15%	Shock	36	
+	Skill	Shocking Pin	1.0.0	Y	Air Ranger	Attack	Air	Rare	3	Single	Shock	20%	Storm	58	
+	Skill	Charged Pin	1.0.0	Y	Air Ranger	Attack	Air	Uncommon	3	Single	None	30%	Shock	63	
+	Skill	Gale Dart	1.0.0	Y	Air Ranger	Attack	Air	Uncommon	1	Single	None	20%	Storm	17	
+	Skill	Vortex Amulet	1.0.0	Y	Air Ranger	Shield	Air	Uncommon	2	Single	None	25%	Critical Hit	78	
+	Skill	Noxious Tip	1.0.0	Y	Earth Elf	Attack	Earth	Common	3	Single	None	20%	Poison	55	
+	Skill	Grounded Tip	1.0.0	Y	Earth Elf	Attack	Earth	Common	2	Single	None	15%	Terra	36	
+	Skill	Poisonous Tip	1.0.0	Y	Earth Elf	Attack	Earth	Rare	3	Single	Poison	20%	Terra	58	
+	Skill	Deflective Tip	1.0.0	Y	Earth Elf	Attack	Earth	Uncommon	3	Splash	None	30%	Critical Hit	42	
+	Skill	Septic Tip	1.0.0	Y	Earth Elf	Attack	Earth	Uncommon	3	Single	None	30%	Poison	60	
+e3c11106-75c8-4900-8d31-9a781a690b93	Skill	Fairy Bottle	1.0.0	Y	Earth Elf	Heal	Earth	Uncommon	2	Single	Regen	25%	Critical Hit	135	2251
+	Skill	Earthed Amulet	1.0.0	Y	Earth Elf	Shield	Earth	Uncommon	2	Single	None	25%	Critical Hit	78	
+	Skill	Blow Dart	1.0.0	Y	Neutral Skill	Attack	Neutral	Common	1	Single	None	10%	Critical Hit	12	
+	Skill	Blunt Arrow	1.0.0	Y	Neutral Skill	Attack	Neutral	Common	3	Single	None	20%	Interrupt	53	
+	Skill	Cutting Edge	1.0.0	Y	Neutral Skill	Attack	Neutral	Common	2	Single	None	15%	Bleed	34	
+	Skill	Ricochet Arrow	1.0.0	Y	Neutral Skill	Attack	Neutral	Common	3	Splash	None	20%	Critical Hit	35	
+	Skill	Combustibolt	1.0.0	Y	Neutral Skill	Attack	Neutral	Rare	3	Single	Oil	20%	Critical Hit	49	
+	Skill	Destructive Arrow	1.0.0	Y	Neutral Skill	Attack	Neutral	Rare	4	Multi	None	25%	Interrupt	56	
+	Skill	Diverting Dart	1.0.0	Y	Neutral Skill	Attack	Neutral	Rare	1	Splash	None	20%	Critical Hit	12	
+	Skill	Hasty Arrow	1.0.0	Y	Neutral Skill	Attack	Neutral	Rare	3	Single	None	40%	SPD Up	61	
+	Skill	Interrupt Arrow	1.0.0	Y	Neutral Skill	Attack	Neutral	Rare	3	Single	Interrupt	20%	Interrupt	58	
+	Skill	Deflective Dart	1.0.0	Y	Neutral Skill	Attack	Neutral	Uncommon	1	Splash	None	20%	Critical Hit	10	
+	Skill	Flammabolt	1.0.0	Y	Neutral Skill	Attack	Neutral	Uncommon	3	Single	None	30%	Oil	57	
+	Skill	Impeding Arrow	1.0.0	Y	Neutral Skill	Attack	Neutral	Uncommon	3	Single	None	30%	Interrupt	57	
+	Skill	Multi-Arrow	1.0.0	Y	Neutral Skill	Attack	Neutral	Uncommon	4	Multi	None	35%	Critical Hit	41	
+	Skill	Speedy Arrow	1.0.0	Y	Neutral Skill	Attack	Neutral	Uncommon	3	Single	None	30%	SPD Up	54	
+	Skill	Herbal Tea	1.0.0	Y	Neutral Skill	Heal	Neutral	Common	1	Self	None	10%	Critical Hit	36	
+	Skill	Lentil Soup	1.0.0	Y	Neutral Skill	Heal	Neutral	Rare	1	Self	None	20%	ATK Up	48	
+	Skill	Warding Light	1.0.0	Y	Neutral Skill	Shield	Neutral	Common	1	Single	None	10%	Critical Hit	30	
+	Skill	Safeguard	1.0.0	Y	Neutral Skill	Shield	Neutral	Super Rare	2	Multi	None	25%	ATK Up	47	
+	Skill	Guarding Light	1.0.0	Y	Neutral Skill	Shield	Neutral	Uncommon	1	Multi	None	20%	ATK Up	20	
+	Skill	Baffling Dart	1.0.0	Y	Spirit Thief	Attack	Spirit	Common	2	Single	None	15%	Confuse	34	
+	Skill	Shaded Spike	1.0.0	Y	Spirit Thief	Attack	Spirit	Common	3	Single	None	20%	Darken	59	
+	Skill	Confuse Dart	1.0.0	Y	Spirit Thief	Attack	Spirit	Rare	2	SIngle	Confuse	15%	Darken	37	
+	Skill	Flared Up	1.0.0	Y	Spirit Thief	Attack	Spirit	Super Rare	4	Multi	Accuracy Down	35%	Interrupt	57	
+	Skill	Bemuse Dart	1.0.0	Y	Spirit Thief	Attack	Spirit	Uncommon	2	SIngle	None	25%	Confuse	37	
+	Magic	Arcane Missile	1.0.5	Y	Neutral Magic	Attack	Neutral	Rare	1	Single	None	20%	Interrupt	18	
+2bb53066-5131-4b00-a482-2df376b9dfd0	Magic	Healing Soul	1.0.5	Y	Neutral Magic	Heal	Neutral	Rare	1	Single	None	20%	Critical Hit	50	
+	Magic	Drop Shield	1.0.5	Y	Neutral Magic	Shield	Neutral	Rare	1	Single	None	20%	Critical Hit	40	
+	Might	Interrupt Sword	1.0.5	Y	Neutral Might	Attack	Neutral	Rare	4	Single	Interrupt	25%	Interrupt	84	
+	Might	Gravy Barrel	1.0.5	Y	Neutral Might	Heal	Neutral	Rare	1	Self	None	20%	ATK Up	43	
+	Skill	Bleeding Edge	1.0.5	Y	Neutral Skill	Attack	Neutral	Rare	2	Single	Bleed	15%	Critical Hit	26	
+	Skill	Shielding Light	1.0.5	Y	Neutral Skill	Shield	Neutral	Rare	1	Single	None	20%	Critical Hit	36	
+	Magic	Startling Earth	1.0.6	Y	Earth Witch	Attack	Earth	Common	3	Single	None	20%	Stun	55	
+	Magic	Stunning Earth	1.0.6	Y	Earth Witch	Attack	Earth	Rare	3	Single	Stun	20%	Interrupt	61	
+	Magic	Vine Wrap	1.0.6	Y	Earth Witch	Attack	Earth	Super Rare	2	Single	Sap	25%	Terra	35	
+	Magic	Dazed Earth	1.0.6	Y	Earth Witch	Attack	Earth	Uncommon	3	Single	None	30%	Stun	60	
+	Magic	Glowing Flame	1.0.6	Y	Fire Mage	Attack	Fire	Common	3	Single	None	20%	Accuracy Down	52	
+03e610af-ae4b-4bc7-9ca2-08d4344efd52	Magic	Blinding Flame	1.0.6	Y	Fire Mage	Attack	Fire	Rare	3	Single	Accuracy Down	20%	Interrupt	58	
+	Magic	Burning Blast	1.0.6	Y	Fire Mage	Attack	Fire	Rare	4	Multi	Burn	25%	Interrupt	50	
+	Magic	Fuming Bunny	1.0.6	Y	Fire Mage	Attack	Fire	Super Rare	1	Single	Burn	20%	Oil	19	
+	Magic	Dazed Heat	1.0.6	Y	Fire Mage	Attack	Fire	Uncommon	3	Single	None	30%	Stun	60	
+	Magic	Dazzling Flame	1.0.6	Y	Fire Mage	Attack	Fire	Uncommon	3	Single	None	30%	Accuracy Down	56	
+	Magic	Arcane Grenade	1.0.6	Y	Neutral Magic	Attack	Neutral	Rare	3	Splash	None	40%	Critical Hit	43	
+	Magic	Healing Aura	1.0.6	Y	Neutral Magic	Heal	Neutral	Uncommon	1	Single	None	20%	Critical Hit	44	
+	Magic	Balloon Shield	1.0.6	Y	Neutral Magic	Shield	Neutral	Uncommon	1	Single	None	20%	Critical Hit	35	
+	Magic	Nightmare	1.0.6	Y	Spirit Sorcerer	Attack	Spirit	Super Rare	4	Single	Sleep	35%	Darken	96	
+	Magic	Conceal Party	1.0.6	Y	Spirit Sorcerer	Heal	Spirit	Common	2	Multi	None	15%	Agility	50	
+	Magic	Cloak Party	1.0.6	Y	Spirit Sorcerer	Heal	Spirit	Rare	2	Multi	Agility	15%	Critical Hit	46	
+	Magic	Enshroud Party	1.0.6	Y	Spirit Sorcerer	Heal	Spirit	Uncommon	2	Multi	None	25%	Agility	54	
+	Magic	Cool Grenade	1.0.6	Y	Water Monk	Attack	Water	Common	3	Splash	None	20%	Chill	31	
+	Magic	Chill Grenade	1.0.6	Y	Water Monk	Attack	Water	Rare	3	Splash	Chill	20%	Critical Hit	29	
+	Magic	Cold Grenade	1.0.6	Y	Water Monk	Attack	Water	Uncommon	3	Splash	None	30%	Chill	34	
+	Might	Cobblestone	1.0.6	Y	Air Paladin	Attack	Air	Common	3	Single	None	20%	Stun	55	
+	Might	Quartzstone	1.0.6	Y	Air Paladin	Attack	Air	Rare	3	Single	Stun	40%	Interrupt	61	
+	Might	Chalkstone	1.0.6	Y	Air Paladin	Attack	Air	Uncommon	3	Single	None	30%	Stun	60	
+	Might	Flammable Bag	1.0.6	Y	Fire Berserker	Attack	Fire	Common	3	Splash	None	20%	Oil	47	
+	Might	Fiery Axe	1.0.6	Y	Fire Berserker	Attack	Fire	Rare	5	Multi	None	30%	Critical Hit	70	
+	Might	Oil Bag	1.0.6	Y	Fire Berserker	Attack	Fire	Rare	3	Splash	Oil	20%	Critical Hit	43	
+	Might	Combustible Bag	1.0.6	Y	Fire Berserker	Attack	Fire	Uncommon	3	Splash	None	30%	Oil	50	
+	Might	Explosive Bag	1.0.6	Y	Neutral Might	Attack	Neutral	Rare	3	Splash	None	40%	Critical Hit	43	
+	Might	Cool Club	1.0.6	Y	Water Valkyrie	Attack	Water	Common	2	Single	None	15%	Chill	24	
+	Might	Chill Club	1.0.6	Y	Water Valkyrie	Attack	Water	Rare	2	Single	Chill	15%	Interrupt	26	
+	Might	Deep Breath	1.0.6	Y	Water Valkyrie	Attack	Water	Super Rare	5	Multi	Chill	40%	Stun	55	
+	Might	Cold Club	1.0.6	Y	Water Valkyrie	Attack	Water	Uncommon	2	Single	None	25%	Chill	26	
+	Skill	Area-Pins	1.0.6	Y	Air Ranger	Attack	Air	Common	4	Multi	None	25%	Critical Hit	42	
+	Skill	Pin Barrage	1.0.6	Y	Air Ranger	Attack	Air	Rare	4	Multi	None	25%	Interrupt	62	
+	Skill	Lightning Strike	1.0.6	Y	Air Ranger	Attack	Air	Super Rare	3	Splash	Shock	30%	Critical Hit	44	
+	Skill	Multi-Pins	1.0.6	Y	Air Ranger	Attack	Air	Uncommon	4	Multi	None	35%	Critical Hit	45	
+	Skill	Ricochet Tip	1.0.6	Y	Earth Elf	Attack	Earth	Common	3	Splash	None	20%	Critical Hit	39	
+	Skill	Diverting Tip	1.0.6	Y	Earth Elf	Attack	Earth	Rare	3	Splash	None	40%	Critical Hit	48	
+	Skill	Poisonous Dart	1.0.6	Y	Earth Elf	Attack	Earth	Rare	1	SIngle	Poison	10%	Critical Hit	13	
+	Skill	Terrain Tip	1.0.6	Y	Earth Elf	Attack	Earth	Uncommon	2	SIngle	None	25%	Terra	39	
+	Skill	Wounding Edge	1.0.6	Y	Neutral Skill	Attack	Neutral	Uncommon	1	SIngle	None	20%	Bleed	16	
+	Skill	Sucking Boomerang	1.0.6	Y	Spirit Thief	Attack	Spirit	Common	2	Multi	None	15%	Leech	16	
+	Skill	Leech Boomerang	1.0.6	Y	Spirit Thief	Attack	Spirit	Rare	2	Multi	Leech	15%	Darken	19	
+	Skill	Draining Boomerang	1.0.6	Y	Spirit Thief	Attack	Spirit	Uncommon	2	Multi	None	25%	Leech	17	
+	Skill	Flaming Stars	1.0.7	Y	Fire Rogue	Attack	Fire	Common	2	Single Flurry	None	15%	Bleed	49	
+	Skill	Flammable Dart	1.0.7	Y	Fire Rogue	Attack	Fire	Common	1	Single	None	10%	Oil	16	
+	Skill	Smoking Disc	1.0.7	Y	Fire Rogue	Attack	Fire	Common	3	Single	None	20%	Burn	57	
+	Skill	Burning Disc	1.0.7	Y	Fire Rogue	Attack	Fire	Rare	3	Single	Burn	20%	Bleed	61	
+	Skill	Fiery Star	1.0.7	Y	Fire Rogue	Attack	Fire	Rare	2	Single Flurry	None	40%	Bleed	61	
+	Skill	Oil Dart	1.0.7	Y	Fire Rogue	Attack	Fire	Rare	1	Single	Oil	10%	Bleed	19	
+	Skill	Quad Slash	1.0.7	Y	Fire Rogue	Attack	Fire	Super Rare	2	SIngle	Bleed	25%	Critical Hit	34	
+	Skill	Blazing Stars	1.0.7	Y	Fire Rogue	Attack	Fire	Uncommon	2	Single Flurry	None	25%	Bleed	53	
+	Skill	Combustible Dart	1.0.7	Y	Fire Rogue	Attack	Fire	Uncommon	1	Single	None	20%	Oil	17	
+	Skill	Ember Disc	1.0.7	Y	Fire Rogue	Attack	Fire	Uncommon	3	Single	None	30%	Burn	62	
+	Skill	Warm Coffee	1.0.7	Y	Fire Rogue	Heal	Fire	Common	1	Single	None	10%	SPD Up	37	
+	Skill	Boiling Coffee	1.0.7	Y	Fire Rogue	Heal	Fire	Rare	1	Single	None	30%	SPD Up	45	
+	Skill	Hot Coffee	1.0.7	Y	Fire Rogue	Heal	Fire	Uncommon	1	Single	None	20%	SPD Up	40	
+	Magic	Poison Grenade	1.0.8	Y	Earth Witch	Attack	Earth	Rare	3	Splash	Poison	20%	Critical Hit	38	
+	Magic	Rejuvenate All	1.0.8	Y	Neutral Magic	Heal	Neutral	Super Rare	1	Multi	None	20%	Max HP Up	32	
+	Magic	Night Cap	1.0.8	Y	Spirit Sorcerer	Heal	Spirit	Super Rare	1	Self	Regen	20%	DEF Up	78	
+	Magic	Wet Missile	1.0.8	Y	Water Monk	Attack	Water	Rare	2	Single	Wet	15%	Interrupt	40	
+	Magic	Channeling Chi	1.0.8	Y	Water Monk	Attack	Water	Super Rare	2	Random	Darken	25%	Accuracy Up	39	
+	Might	Barrier Breaker	1.0.8	Y	Air Paladin	Attack	Air	Rare	4	Single	Destroy Shield	25%	Interrupt	98	
+	Might	Charged Shield	1.0.8	Y	Air Paladin	Shield	Air	Super Rare	2	Self	ATK Down	25%	Critical Hit	58	
+	Might	Flame On	1.0.8	Y	Fire Berserker	Attack	Fire	Super Rare	4	Single	Self Damage	35%	Stun	136	
+	Might	Impale Shield	1.0.8	Y	Neutral Might	Shield	Neutral	Rare	2	Self	ATK Down	30%	Critical Hit	57	
+	Might	Magnet Shield	1.0.8	Y	Neutral Might	Shield	Neutral	Super Rare	2	Self	Taunt	25%	Critical Hit	65	
+	Might	Bronze Shield	1.0.8	Y	Neutral Might	Shield	Neutral	Uncommon	1	Self	None	20%	Critical Hit	29	
+	Might	Wet Kiss	1.0.8	Y	Water Valkyrie	Heal	Water	Super Rare	2	Self	Charm	25%	Critical Hit	69	
+	Skill	Healing Light	1.0.8	Y	Air Ranger	Shield	Air	Super Rare	1	Multi	None	20%	Critical Hit	22	
+a2e873b7-6729-40da-9af1-ccbd73b12aea	Skill	Acid Splash	1.0.8	Y	Earth Elf	Attack	Earth	Super Rare	3	Splash	Poison	30%	Terra	42	
+	Skill	Diverting Arrow	1.0.8	Y	Neutral Skill	Attack	Neutral	Rare	3	Splash	None	40%	Critical Hit	43	
+	Skill	Silver Dart	1.0.8	Y	Neutral Skill	Attack	Neutral	Rare	1	Single	None	30%	Critical Hit	15	
+	Skill	Bronze Dart	1.0.8	Y	Neutral Skill	Attack	Neutral	Uncommon	1	Single	None	20%	Critical Hit	13	
+	Skill	Diverting Spike	1.0.8	Y	Spirit Thief	Attack	Spirit	Rare	3	Splash	None	20%	Critical Hit	48	
+	Skill	Out Of Sight	1.0.8	Y	Spirit Thief	Heal	Spirit	Super Rare	1	Self	Agility	20%	Critical Hit	32	
+	Might	Bore Spear	1.0.9	Y	Earth Warrior	Attack	Earth	Common	2	Single	Pierce	15%	Critical Hit	27	
+	Might	Grounded Sword	1.0.9	Y	Earth Warrior	Attack	Earth	Common	4	Single	None	25%	Terra	85	
+	Might	Noxious Dung	1.0.9	Y	Earth Warrior	Attack	Earth	Common	3	Single	None	20%	Poison	55	
+	Might	Piercing Spear	1.0.9	Y	Earth Warrior	Attack	Earth	Rare	2	Single	Pierce	40%	Critical Hit	33	
+	Might	Poisonous Dung	1.0.9	Y	Earth Warrior	Attack	Earth	Rare	3	Single	Poison	20%	Stun	54	
+	Might	Terra Sword	1.0.9	Y	Earth Warrior	Attack	Earth	Rare	4	Single	Terra	25%	Interrupt	93	
+	Might	Rocking Roll	1.0.9	Y	Earth Warrior	Attack	Earth	Super Rare	5	Single	Stun	40%	Interrupt	151	
+	Might	Drilling Spear	1.0.9	Y	Earth Warrior	Attack	Earth	Uncommon	2	Single	Pierce	25%	Critical Hit	29	
+	Might	Septic Dung	1.0.9	Y	Earth Warrior	Attack	Earth	Uncommon	3	Single	None	30%	Poison	60	
+	Might	Terrain Sword	1.0.9	Y	Earth Warrior	Attack	Earth	Uncommon	4	Single	None	35%	Terra	91	
+	Might	Odd Seeds	1.0.9	Y	Earth Warrior	Heal	Earth	Common	2	Multi	Regen	15%	Warped	81	
+	Might	Warped Seeds	1.0.9	Y	Earth Warrior	Heal	Earth	Rare	2	Multi	Regen	15%	Critical Hit	74	
+	Might	Sweet Corn	1.0.9	Y	Earth Warrior	Heal	Earth	Super Rare	1	Self Flurry	None	20%	DEF Up	72	
+	Might	Weird Seeds	1.0.9	Y	Earth Warrior	Heal	Earth	Uncommon	2	Multi	Regen	25%	Warped	88	
+	Magic	Storm's End	1.0.10	Y	Earth Witch	Heal	Earth	Super Rare	1	SIngle	Cure Storm	20%	Critical Hit	44	
+	Magic	Confuse Grenade	1.0.10	Y	Spirit Sorcerer	Attack	Spirit	Rare	3	Splash	Confuse	20%	Critical Hit	41	
+	Magic	Snake Charmer	1.0.10	Y	Spirit Sorcerer	Attack	Spirit	Super Rare	3	Multi	Charm	30%	Stun	42	
+	Magic	Chill Missile	1.0.10	Y	Water Monk	Attack	Water	Rare	2	Single	Chill	15%	Wet	26	
+	Might	Wrath of God	1.0.10	Y	Air Paladin	Attack	Air	Super Rare	6	Multi	Storm	40%	Shock	105	
+	Might	Firewall	1.0.10	Y	Fire Berserker	Heal	Fire	Super Rare	1	Self	ATK Down	20%	Critical Hit	42	
+	Might	Ice Shard	1.0.10	Y	Water Valkyrie	Attack	Water	Super Rare	2	Single	Pierce	25%	Critical Hit	30	
+	Skill	Shocking Dart	1.0.10	Y	Air Ranger	Attack	Air	Rare	1	Single	Shock	10%	Critical Hit	13	
+	Skill	Bulls Eye	1.0.10	Y	Air Ranger	Attack	Air	Super Rare	2	Single	Accuracy Up	25%	Shock	40	
+	Skill	Tip Barrage	1.0.10	Y	Earth Elf	Attack	Earth	Rare	4	Multi	None	25%	Interrupt	62	
+	Skill	Diverting Disc	1.0.10	Y	Fire Rogue	Attack	Fire	Rare	3	Splash	Burn	20%	Bleed	49	
+	Skill	Speed Of Light	1.0.10	Y	Fire Rogue	Shield	Fire	Super Rare	2	Self	SPD Up	25%	ATK Up	93	
+	Skill	Heart Breaker	1.0.10	Y	Spirit Thief	Attack	Spirit	Super Rare	2	Single	Break	25%	Darken	48	
+	Magic	Box of Frogs	1.1.0	Y	Earth Witch	Attack	Earth	Super Rare	4	Multi Flurry	Poison	35%	Critical Hit	62	
+	Magic	Draining Vines	1.1.0	Y	Earth Witch	Attack	Earth	Uncommon	2	Single	None	25%	Sap	30	
+	Magic	Healing Oils	1.1.0	Y	Fire Mage	Heal	Fire	Super Rare	2	Single	Cure Poison	25%	Critical Hit	89	
+	Magic	Snoozing Sceptre	1.1.0	Y	Neutral Magic	Attack	Neutral	Uncommon	3	Single	None	30%	Sleep	57	
+	Magic	Bemuse Grenade	1.1.0	Y	Spirit Sorcerer	Attack	Spirit	Uncommon	3	Splash	None	30%	Confuse	48	
+	Magic	Smelling Salts	1.1.0	Y	Water Monk	Heal	Water	Super Rare	2	Single	Regen	25%	SPD Up	142	
+	Might	Shocking Axe	1.1.0	Y	Air Paladin	Attack	Air	Rare	5	Multi	Shock	30%	Storm	67	
+	Might	Barrier Smasher	1.1.0	Y	Air Paladin	Attack	Air	Uncommon	4	Single	x2 Shield Damage	35%	Interrupt	86	
+	Might	Burning Club	1.1.0	Y	Fire Berserker	Attack	Fire	Rare	2	Single	Burn	15%	Interrupt	35	
+	Might	Drilling Javelin	1.1.0	Y	Neutral Might	Attack	Neutral	Uncommon	2	Single	Pierce	25%	Critical Hit	26	
+	Might	Piercing Shard	1.1.0	Y	Water Valkyrie	Attack	Water	Rare	2	Single	Pierce	15%	Critical Hit	26	
+	Skill	Charged Dart	1.1.0	Y	Air Ranger	Attack	Air	Uncommon	2	Single	None	25%	Shock	39	
+	Skill	Sleeping Dust	1.1.0	Y	Earth Elf	Attack	Earth	Rare	2	Multi	Sleep	15%	Poison	20	
+	Skill	Ivywood Piercer	1.1.0	Y	Earth Elf	Attack	Earth	Super Rare	1	Single	Poison	20%	Critical Hit	14	
+	Skill	Healing Splash	1.1.0	Y	Earth Elf	Heal	Earth	Super Rare	1	Splash	None	20%	Critical Hit	37	
+	Skill	Piercing Hellfire	1.1.0	Y	Fire Rogue	Attack	Fire	Super Rare	3	Single	Burn	30%	Bleed	63	
+	Skill	Darkness Spike	1.1.0	Y	Spirit Thief	Attack	Spirit	Rare	3	Single	Darken	20%	Critical Hit	54	
+	Skill	Multi-Spike	1.1.0	Y	Spirit Thief	Attack	Spirit	Uncommon	4	Multi	None	35%	Critical Hit	45	
+	Skill	Cloaked	1.1.0	Y	Spirit Thief	Heal	Spirit	Rare	1	Single	Agility	10%	Critical Hit	35	
+	Magic	Iron Break	1.1.1	Y	Fire Mage	Attack	Fire	Super Rare	2	Single	Break	25%	Burn	42	
+	Magic	Moonbeam	1.1.1	Y	Spirit Sorcerer	Attack	Spirit	Super Rare	1	Splash	Accuracy Down	20%	Interrupt	15	
+	Magic	Spectral Protection	1.1.1	Y	Spirit Sorcerer	Shield	Spirit	Rare	2	Single	None	15%	Critical Hit	97	
+	Might	Peace Pipe	1.1.1	Y	Earth Warrior	Heal	Earth	Super Rare	1	Single	Terra	20%	Critical Hit	47	
+	Might	Mutton Chops	1.1.1	Y	Fire Berserker	Attack	Fire	Rare	1	Single	Regen	10%	Stun	13	
+	Magic	Noxious Grenade	1.1.2	Y	Earth Witch	Attack	Earth	Common	3	Splash	None	20%	Poison	44	
+	Magic	Sucking Vines	1.1.2	Y	Earth Witch	Attack	Earth	Common	2	Single	None	15%	Sap	28	
+	Magic	Terra Missile	1.1.2	N	Earth Witch	Attack	Earth	Rare	2	Single	Terra	15%	Interrupt	40	
+	Magic	Mischievous Break	1.1.2	Y	Earth Witch	Attack	Earth	Rare	2	Single	Break	15%	Poison	40	
+	Magic	Septic Grenade	1.1.2	Y	Earth Witch	Attack	Earth	Uncommon	3	Splash	None	30%	Poison	48	
+	Magic	Flammable Spill	1.1.2	Y	Fire Mage	Attack	Fire	Common	2	Multi	None	15%	Oil	22	
+	Magic	Oil Spill	1.1.2	Y	Fire Mage	Attack	Fire	Rare	2	Multi	Oil	15%	Interrupt	24	
+	Magic	Ember Grenade	1.1.2	Y	Fire Mage	Attack	Fire	Uncommon	3	Splash	None	30%	Burn	49	
+	Magic	Arcane Break	1.1.2	Y	Neutral Magic	Attack	Neutral	Uncommon	2	Single	None	25%	Break	37	
+	Magic	Breaking Chakra	1.1.2	Y	Water Monk	Attack	Water	Rare	2	Single	Break	15%	Stun	40	
+	Might	Ethereal Guardian	1.1.2	Y	Air Paladin	Shield	Air	Super Rare	1	Single	Max HP Up	20%	ATK Up	42	
+	Might	Ivywood Amulet	1.1.2	Y	Earth Elf	Shield	Earth	Rare	2	Single	None	15%	Critical Hit	89	
+	Might	Sundered Rocks	1.1.2	Y	Earth Warrior	Attack	Earth	Rare	3	Multi	None	20%	Interrupt	43	
+	Might	Fellcrest Lullaby	1.1.2	N	Earth Warrior	Attack	Earth	Super Rare	3	Multi	Sleep	30%	DEF Down	35	
+	Might	Caber Toss	1.1.2	Y	Fire Berserker	Attack	Fire	Super Rare	3	Single	x2 Shield Damage	30%	Reset	62	
+	Might	Wet Bag	1.1.2	N	Water Valkyrie	Attack	Water	Rare	3	Splash	Wet	20%	Critical Hit	43	
+	Might	Ride of the Valkyries	1.1.2	Y	Water Valkyrie	Attack	Water	Super Rare	3	Multi	ATK Up	30%	Critical Hit	33	
+	Skill	Sky Piercer	1.1.2	Y	Air Ranger	Attack	Air	Super Rare	2	Single	Pierce	25%	Critical Hit	38	
+	Skill	Tempest Amulet	1.1.2	Y	Air Ranger	Shield	Air	Rare	2	Single	None	15%	Critical Hit	89	
+	Skill	Septic Dart	1.1.2	Y	Earth Elf	Attack	Earth	Uncommon	1	Single	None	20%	Poison	16	
+	Skill	Ricochet Spike	1.1.2	Y	Spirit Thief	Attack	Spirit	Common	3	Splash	None	20%	Critical Hit	39	
+	Skill	Deflective Spike	1.1.2	Y	Spirit Thief	Attack	Spirit	Uncommon	3	Splash	None	30%	Critical Hit	42	
+	Magic	Stunning Heat	1.1.3	N	Fire Mage	Attack	Fire	Rare	3	Single	Stun	30%	Interrupt	61	
+	Magic	Fireproof Protection	1.1.3	N	Neutral Magic	Attack	Neutral	Uncommon	2	Single	None	25%	Cure Burn	34	
+	Magic	Darken Missile	1.1.3	Y	Spirit Sorcerer	Attack	Spirit	Rare	2	Single	Darken	25%	Interrupt	40	
+	Magic	Avalanche	1.1.3	N	Water Monk	Attack	Water	Super Rare	5	Multi	Cure Burn	40%	Interrupt	61	
+	Might	Cleansing Chalice	1.1.3	N	Air Paladin	Attack	Air	Super Rare	3	Single	Cure Confuse	20%	Critical Hit	43	
+	Might	Furious Fist	1.1.3	Y	Fire Berserker	Attack	Fire	Rare	3	Single	Immune to Stun	20%	Critical Hit	54	
+	Might	Stunning Boulder	1.1.3	N	Neutral Might	Attack	Neutral	Rare	3	Single	Stun	20%	Interrupt	55	
+	Might	Glacier	1.1.3	N	Water Valkyrie	Attack	Water	Rare	3	Single	Stun	30%	Chill	41	
+	Might	Frostbite Shield	1.1.3	Y	Water Valkyrie	Attack	Water	Rare	2	Self	Return Damage	15%	Cure Burn	35	
+	Skill	Storm Dart	1.1.3	Y	Air Ranger	Attack	Air	Rare	1	Single	Storm	40%	Critical Hit	15	
+	Skill	Bleeding Thorn	1.1.3	Y	Earth Elf	Attack	Earth	Rare	3	Single	Bleed	15%	Critical Hit	48	
+	Skill	Fairy Shield	1.1.3	Y	Earth Elf	Shield	Earth	Super Rare	2	Single	Regen	25%	Critical Hit	90	
+	Skill	Rain Of Fire	1.1.3	Y	Fire Rogue	Attack	Fire	Super Rare	4	Multi Flurry	Burn & Bleed	15%	Critical Hit	56	
+	Skill	Deflective Disc	1.1.3	N	Fire Rogue	Attack	Fire	Uncommon	3	Splash	None	30%	Burn	49	
+	Skill	Spike Barrage	1.1.3	Y	Spirit Thief	Attack	Spirit	Rare	4	Multi	None	25%	Interrupt	62	
+	Skill	Hard Luck	1.1.3	Y	Spirit Thief	Attack	Spirit	Super Rare	2	Single	Card Stats Down DE	25%	Accuracy Down	56	
+	Magic	Earth Quake	1.1.4	N	Earth Witch	Attack	Earth	Rare	4	Multi	Interrupt	25%	Interrupt	56	
+	Skill	Storm Edge	1.1.4	Y	Air Ranger	Attack	Air	Rare	2	Single	Storm	15%	Bleed	42	
+	Skill	Shell Cutlass	1.1.4	Y	Water Pirate	Attack	Water	Common	2	Single	None	15%	Critical Hit	30	
+	Skill	Shrimp Pistol	1.1.4	Y	Water Pirate	Attack	Water	Common	2	Single	None	15%	Wet	36	
+	Skill	Clam Blunderbuss	1.1.4	Y	Water Pirate	Attack	Water	Common	3	Splash	None	20%	Interrupt	47	
+	Skill	Piranha Pistol	1.1.4	Y	Water Pirate	Attack	Water	Rare	2	Single	Wet	15%	Critical Hit	33	
+	Skill	Rum Shower	1.1.4	Y	Water Pirate	Attack	Water	Rare	2	Single	Oil	15%	Confuse	45	
+	Skill	Oyster Blunderbuss	1.1.4	Y	Water Pirate	Attack	Water	Rare	3	Splash	Interrupt	20%	Critical Hit	43	
+	Skill	Shark Cannon	1.1.4	Y	Water Pirate	Attack	Water	Super Rare	3	Splash	Bleed	30%	Wet	40	
+	Skill	The Kraken	1.1.4	Y	Water Pirate	Attack	Water	Super Rare	4	Multi	Interrupt	35%	Poison	32	
+	Skill	Sardine Pistol	1.1.4	Y	Water Pirate	Attack	Water	Uncommon	2	Single	None	25%	Wet	39	
+	Skill	Whelk Blunderbuss	1.1.4	Y	Water Pirate	Attack	Water	Uncommon	3	Splash	None	30%	Interrupt	50	
+	Skill	Fishbone Cutlass	1.1.4	Y	Water Pirate	Attack	Water	Uncommon	2	Single	None	25%	Critical Hit	32	
+	Skill	Grog Flask	1.1.4	Y	Water Pirate	Heal	Water	Common	1	Self	None	10%	ATK Up	48	
+	Skill	Grog Bottle	1.1.4	N	Water Pirate	Heal	Water	Rare	1	Self	ATK Up	10%	Critical Hit	44	
+	Skill	Grog Tankard	1.1.4	Y	Water Pirate	Heal	Water	Uncommon	1	Self	None	20%	ATK Up	52	
+	Magic	Candy Cauldron	1.1.5	N	Earth Witch	Heal	Earth	Super Rare	2	Multi	Regen	25%	SPD Up	121	
+	Magic	Burning Grenade	1.1.5	Y	Fire Mage	Attack	Fire	Rare	3	Splash	Burn	20%	Critical Hit	38	
+	Magic	Pumpkin Field	1.1.5	Y	Spirit Sorcerer	Attack	Spirit	Super Rare	3	Multi Flurry	SPD Down	30%	Interrupt	55	
+	Might	Hot Boulder	1.1.5	N	Fire Berserker	Attack	Fire	Rare	3	Single	Stun	20%	Interrupt	61	
+	Might	Wet Dagger	1.1.5	N	Water Valkyrie	Attack	Water	Rare	2	Single	Wet	15%	Critical Hit	33	
+	Skill	The Scabber	1.1.5	N	Earth Warrior	Shield	Earth	Rare	1	Self	None	10%	Bleed	51	
+	Skill	Defrost Amulet	1.1.5	Y	Spirit Thief	Shield	Spirit	Rare	1	Self	None	10%	Chill	49	
+	Skill	Stingray Dart	1.1.5	N	Water Pirate	Attack	Water	Rare	1	Single	Pierce	10%	Accuracy Down	16	
+	Magic	Feed the Flames	1.2.0	N	Fire Mage	Attack	Fire	Rare	1	Single	Burn	10%	None	21	
+	Magic	Menacing Gloom	1.2.0	N	Spirit Sorcerer	Shield	Spirit	Rare	2	Multi	None	15%	Critical Hit	53	
+	Magic	Chilling Jab	1.2.0	N	Water Monk	Attack	Water	Rare	2	Single	None	15%	Chill	29	
+	Might	Justice Sword	1.2.0	N	Air Paladin	Attack	Air	Rare	2	Self	Regen	15%	Critical Hit	62	
+	Might	Defensive Strike	1.2.0	N	Air Paladin	Attack	Air	Rare	3	Single	DEF Up	20%	Critical Hit	48	
+	Might	The Dragonslayer	1.2.0	N	Fire Berserker	Attack	Fire	Super Rare	5	Single	Break	40%	Reset	128	
+	Might	Chill Axe	1.2.0	N	Water Valkyrie	Attack	Water	Rare	5	Multi	Chill	30%	Critical Hit	42	
+	Skill	Terra Tip	1.2.0	Y	Earth Elf	Attack	Earth	Rare	2	Single	Terra	15%	Critical Hit	33	
+	Skill	Fairy Blessing	1.2.0	N	Earth Elf	Heal	Earth	Rare	1	Single	Max HP Up	10%	Critical Hit	51	
+	Skill	Faradays Amulet	1.2.0	N	Earth Elf	Shield	Earth	Rare	1	Self	None	10%	Shock	49	
+	Skill	Black Spot	1.2.0	N	Water Pirate	Attack	Water	Rare	2	Single	Leech	15%	Critical Hit	31	
+	Skill	Mistral Strike	1.2.0	N	Water Pirate	Attack	Water	Rare	1	Single	Storm	10%	Critical Hit	18	
+	Skill	Hoist the Colours	1.2.0	N	Water Pirate	Heal	Water	Super Rare	2	Multi	SPD Up	25%	ATK Up	69	
+	Might	Shocking Bag	1.2.1	N	Air Paladin	Attack	Air	Rare	3	Splash	Shock	30%	Storm	29	
+	Skill	Diverting Pin	1.2.1	N	Air Ranger	Attack	Air	Rare	3	Splash	None	40%	Critical	48	
+	Magic	Feed the Toxins	1.2.1	N	Earth Witch	Attack	Earth	Rare	1	Single	None	25%	Extend Poison	18	
+	Magic	Lava Wave	1.2.1	N	Fire Mage	Attack	Fire	Super Rare	4	Multi	Burn, Slow	35%	Interrupt	55	
+	Might	Magmatic Rocks	1.2.1	N	Fire Berserker	Attack	Fire	Rare	3	Multi	Burn	30%	Interrupt	35	
+	Might	Chilling Shards	1.2.1	N	Water Valkyrie	Attack	Water	Rare	4	Multi	Chill, Pierce	20%	Critical	30	
+	Skill	Smoke Bomb	1.2.1	N	Spirit Thief	Attack	Spirit	Rare	3	Splash	Evade	30%	Critical	32	
+	Skill	Turkey Arrow	1.2.1	N	Fire Rogue	Attack	Fire	Rare	2	Single	Regen	30%	Burn	24	
+	Skill	Wind Barrier	1.2.1	N	Air Ranger	Shield	Air	Rare	2	Multi	Storm	15%	Critical Hit	48	
+	Skill	Guiding Star	1.2.3	N	Air Ranger	Attack	Air	Super Rare	4	Single	None	35%	Shock	120	
+	Skill	Annoying Elves	1.2.3	N	Earth Elf	Attack	Earth	Super Rare	2	Single Flurry	Accuracy Down	25%	Interrupt	52	
+	Might	Christmas Tree	1.2.3	N	Earth Warrior	Attack	Earth	Rare	4	Single	Stun	25%	Interrupt	88	
+	Might	Dirty Bomb	1.2.3	N	Earth Warrior	Attack	Earth	Rare	3	Splash	Terra	20%	Poison	49	
+	Might	Byson Shield	1.2.3	N	Earth Warrior	Shield	Earth	Rare	1	Self	None	10%	SPD Up	46	
+	Might	Fuel the Fire	1.2.3	N	Fire Berserker	Attack	Fire	Rare	3	Splash	Oil	20%	Burn	51	
+	Magic	Hot Chestnuts	1.2.3	N	Fire Mage	Shield	Fire	Super Rare	3	Multi	None	30%	Critical Hit	22	
+	Magic	Vampiric Bats	1.2.3	N	Spirit Sorcerer	Attack	Spirit	Rare	4	Multi Flurry	Leech	25%	Critical Hit	47	
+	Magic	Discharging Ray	1.2.3	N	Spirit Sorcerer	Attack	Spirit	Rare	2	Single	Leech	15%	Interrupt	31	
+	Skill	Backstab	1.2.3	N	Spirit Thief	Attack	Spirit	Super Rare	1	Single	Pierce	20%	Bleed	22	
+	Magic	Snowballs	1.2.3	N	Water Monk	Attack	Water	Rare	2	Single Flurry	Chill	15%	Critical Hit	29	
+	Might	Mammoth Shield	1.2.3	N	Water Valkyrie	Shield	Water	Rare	1	Self	None	10%	SPD Up	52	
+	Magic	Apnoea	1.2.4	N	Water Monk	Attack	Water	Rare	3	Single	Poison	20%	Wet	58	
+	Skill	Voodoo Ritual	1.2.4	N	Water Pirate	Attack	Water	Super Rare	2	Single	ATK Up	25%	ATK Up	36	
+	Skill	Tropical Juice	1.2.5	N	Water Pirate	Heal	Water	Rare	1	Self	Regen	10%	Max HP Up	80	
+	Might	Cornholio	1.2.5	N	Earth Warrior	Attack	Earth	Rare	2	Single	Wet	15%	Break	42	
+	Might	Divine Thunder	1.2.5	N	Air Paladin	Attack	Air	Rare	4	Multi	Shock	25%	Stun	47	
+	Magic	Witch's Brew	1.2.5	N	Earth Witch	Heal	Earth	Super Rare	1	Multi	DEF Up	20%	ATK Up	25	
+	Magic	Spent Force	1.2.5	N	Spirit Sorcerer	Attack	Spirit	Super Rare	5	Single	Wet	45%	Break	162	
+	Might	SilverLake Sword	1.2.5	N	Water Valkyrie	Attack	Water	Super Rare	4	Single	Wet	35%	Chill	72	
+	Skill	Espresso Shot	1.2.7	N	Fire Rogue	Attack	Fire	Super Rare	1	Self	SPD Up	20%	Agility	45	
+	Skill	Bleeding Heart	1.2.7	N	Fire Rogue	Attack	Fire	Rare	1	Single	None	25%	Bleed	18	
+	Magic	Monk Fu	1.2.7	N	Water Monk	Attack	Water	Super Rare	3	Single	SPD Up	40%	Critical Hit	59	
+	Skill	Turkey Arrow	1.2.7	N	Earth Elf	Attack	Earth	Rare	2	Single	Regen	30%	Poison	24	
+	Magic	Volcano	1.2.7	N	Fire Mage	Attack	Fire	Super Rare	3	Splash	Charge Trait	35%	ATK Up	50	
+	Skill	Forest Barrier	1.2.7	N	Earth Elf	Shield	Earth	Rare	2	Multi	Terra	15%	Critical Hit	64	
+	Magic	Witchcraft	1.2.7	N	Earth Witch	Attack	Earth	Rare	2	Single	Poison	15%	Mark	31	
+	Skill	Acid Splash	1.2.8	Y	Earth Elf	Attack	Earth	Legendary	3	Splash	Poison	35%	Terra	45	
+	Might	Charged Shield	1.2.8	Y	Air Paladin	Shield	Air	Legendary	2	Self	Taunt	30%	Accuracy Up	60	
+	Skill	Bullseye	1.2.8	N	Air Ranger	Attack	Air	Legendary	2	Single	Accuracy Up	30%	Shock	42	
+	Magic	Box of Frogs	1.2.8	N	Earth Witch	Attack	Earth	Legendary	4	Multi Flurry	Poison	40%	Critical Hit	66	
+	Magic	Snake Charmer	1.2.8	N	Spirit Sorcerer	Attack	Spirit	Legendary	3	Multi	Charm	35%	Stun	45	
+	Magic	Fuming Bunny	1.2.8	Y	Fire Mage	Attack	Fire	Legendary	1	Single	Burn	25%	Oil	19	
+	Magic	Meditation	1.2.8	N	Water Monk	Heal	Water	Legendary	1	Self	Regen	25%	Critical Hit	170	
+	Magic	Scorching Flames	1.2.8	N	Fire Mage	Attack	Fire	Super Rare	1	Single	None	35%	Extend Burn	21	
+	Might	The Equalizer	1.2.8	N	Air Paladin	Attack	Air	Super Rare	3	Self	Regen	25%	Storm	60	
+	Might	Mead Sip	1.2.8	N	Water Valkyrie	Heal	Water	Rare	1	Self	None	30%	DEF Up	61	
+	Magic	Hex	1.2.8	N	Spirit Sorcerer	Attack	Spirit	Rare	3	Multi	Darken	20%	Double Damage	26	
