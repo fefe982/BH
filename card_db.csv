@@ -7,7 +7,7 @@
 68f4b5b0-3cfe-4c45-84b3-d987ae7c10aa,Magic,Smoking Missile,1.0.0,Y,Fire Mage,Attack,Fire,Common,2,Single,None,15%,Burn,35,154
 ,Magic,Burning Missile,1.0.0,Y,Fire Mage,Attack,Fire,Rare,3,Single,Burn,20%,Oil,58,
 ,Magic,Ember Blast,1.0.0,Y,Fire Mage,Attack,Fire,Uncommon,4,Multi,None,35%,Burn,53,
-,Magic,Flaming Protect,1.0.0,Y,Fire Mage,Shield,Fire,Uncommon,2,Single,None,25%,Critical Hit,86,
+6d0a82b1-5cec-4990-b02a-d6ea75467d77,Magic,Flaming Protect,1.0.0,Y,Fire Mage,Shield,Fire,Uncommon,2,Single,None,25%,Critical Hit,86,1435
 ,Magic,Startle Staff,1.0.0,Y,Neutral Magic,Attack,Neutral,Common,2,Single,None,15%,Stun,31,
 ,Magic,Glowing Staff,1.0.0,Y,Neutral Magic,Attack,Neutral,Common,3,Single,None,20%,Accuracy Down,47,
 ,Magic,Magic Grenade,1.0.0,Y,Neutral Magic,Attack,Neutral,Common,3,Splash,None,20%,Critical Hit,35,
@@ -128,7 +128,7 @@ e478d84e-435b-44e9-8c56-bb51099ba0dd,Skill,Speedy Arrow,1.0.0,Y,Neutral Skill,At
 ,Magic,Dazed Earth,1.0.6,Y,Earth Witch,Attack,Earth,Uncommon,3,Single,None,30%,Stun,60,
 ,Magic,Glowing Flame,1.0.6,Y,Fire Mage,Attack,Fire,Common,3,Single,None,20%,Accuracy Down,52,
 03e610af-ae4b-4bc7-9ca2-08d4344efd52,Magic,Blinding Flame,1.0.6,Y,Fire Mage,Attack,Fire,Rare,3,Single,Accuracy Down,20%,Interrupt,58,2862
-,Magic,Burning Blast,1.0.6,Y,Fire Mage,Attack,Fire,Rare,4,Multi,Burn,25%,Interrupt,50,
+30013228-710b-41c1-a58c-815f49682321,Magic,Burning Blast,1.0.6,Y,Fire Mage,Attack,Fire,Rare,4,Multi,Burn,25%,Interrupt,50,2467
 ,Magic,Fuming Bunny,1.0.6,Y,Fire Mage,Attack,Fire,Super Rare,1,Single,Burn,20%,Oil,19,
 ,Magic,Dazed Heat,1.0.6,Y,Fire Mage,Attack,Fire,Uncommon,3,Single,None,30%,Stun,60,
 ,Magic,Dazzling Flame,1.0.6,Y,Fire Mage,Attack,Fire,Uncommon,3,Single,None,30%,Accuracy Down,56,
@@ -184,10 +184,10 @@ a014ad01-2652-41a1-b9fa-b836da368904,Skill,Draining Boomerang,1.0.6,Y,Spirit Thi
 ,Magic,Night Cap,1.0.8,Y,Spirit Sorcerer,Heal,Spirit,Super Rare,1,Self,Regen,20%,DEF Up,78,
 ,Magic,Wet Missile,1.0.8,Y,Water Monk,Attack,Water,Rare,2,Single,Wet,15%,Interrupt,40,
 ,Magic,Channeling Chi,1.0.8,Y,Water Monk,Attack,Water,Super Rare,2,Random,Darken,25%,Accuracy Up,39,
-,Might,Barrier Crusher,1.0.8,Y,Air Paladin,Attack,Air,Rare,4,Single,Destroy Shield,25%,Interrupt,98,4835
+50f78c48-4ec1-4a96-beba-e5bd512c668a,Might,Barrier Crusher,1.0.8,Y,Air Paladin,Attack,Air,Rare,4,Single,Destroy Shield,25%,Interrupt,98,4835
 ,Might,Charged Shield,1.0.8,Y,Air Paladin,Shield,Air,Super Rare,2,Self,ATK Down,25%,Critical Hit,58,6193
 ,Might,Flame On,1.0.8,Y,Fire Berserker,Attack,Fire,Super Rare,4,Single,Self Damage,35%,Stun,136,
-,Might,Impale Shield,1.0.8,Y,Neutral Might,Shield,Neutral,Rare,2,Self,ATK Down,30%,Critical Hit,57,
+,Might,Impale Shield,1.0.8,Y,Neutral Might,Shield,Neutral,Rare,2,Self,ATK Down,30%,Critical Hit,57,2812
 ,Might,Magnet Shield,1.0.8,Y,Neutral Might,Shield,Neutral,Super Rare,2,Self,Taunt,25%,Critical Hit,65,
 ,Might,Bronze Shield,1.0.8,Y,Neutral Might,Shield,Neutral,Uncommon,1,Self,None,20%,Critical Hit,29,
 ,Might,Wet Kiss,1.0.8,Y,Water Valkyrie,Heal,Water,Super Rare,2,Self,Charm,25%,Critical Hit,69,
@@ -231,7 +231,7 @@ a2e873b7-6729-40da-9af1-ccbd73b12aea,Skill,Acid Splash,1.0.8,Y,Earth Elf,Attack,
 ,Magic,Snoozing Sceptre,1.1.0,Y,Neutral Magic,Attack,Neutral,Uncommon,3,Single,None,30%,Sleep,57,
 ,Magic,Bemuse Grenade,1.1.0,Y,Spirit Sorcerer,Attack,Spirit,Uncommon,3,Splash,None,30%,Confuse,48,
 ,Magic,Smelling Salts,1.1.0,Y,Water Monk,Heal,Water,Super Rare,2,Single,Regen,25%,SPD Up,142,
-,Might,Shocking Axe,1.1.0,Y,Air Paladin,Attack,Air,Rare,5,Multi,Shock,30%,Storm,67,
+8ee1b024-ce65-4021-a08f-65299e65ee0a,Might,Shocking Axe,1.1.0,Y,Air Paladin,Attack,Air,Rare,5,Multi,Shock,30%,Storm,67,3306
 ,Might,Barrier Smasher,1.1.0,Y,Air Paladin,Attack,Air,Uncommon,4,Single,x2 Shield Damage,35%,Interrupt,86,
 ,Might,Burning Club,1.1.0,Y,Fire Berserker,Attack,Fire,Rare,2,Single,Burn,15%,Interrupt,35,
 ,Might,Drilling Javelin,1.1.0,Y,Neutral Might,Attack,Neutral,Uncommon,2,Single,Pierce,25%,Critical Hit,26,
@@ -271,8 +271,8 @@ a2e873b7-6729-40da-9af1-ccbd73b12aea,Skill,Acid Splash,1.0.8,Y,Earth Elf,Attack,
 ,Skill,Septic Dart,1.1.2,Y,Earth Elf,Attack,Earth,Uncommon,1,Single,None,20%,Poison,16,
 ,Skill,Ricochet Spike,1.1.2,Y,Spirit Thief,Attack,Spirit,Common,3,Splash,None,20%,Critical Hit,39,
 ,Skill,Deflective Spike,1.1.2,Y,Spirit Thief,Attack,Spirit,Uncommon,3,Splash,None,30%,Critical Hit,42,
-,Magic,Stunning Heat,1.1.3,N,Fire Mage,Attack,Fire,Rare,3,Single,Stun,30%,Interrupt,61,
-,Magic,Fireproof Protection,1.1.3,N,Neutral Magic,Attack,Neutral,Uncommon,2,Single,None,25%,Cure Burn,34,
+62e3bed3-d3db-4da8-8839-350eba6dd6ca,Magic,Stunning Heat,1.1.3,N,Fire Mage,Attack,Fire,Rare,3,Single,Stun,30%,Interrupt,61,3009
+ae69ac24-4bd0-42f8-9d89-acd4b170ffc6,Magic,Fireproof Protection,1.1.3,N,Neutral Magic,Shield,Neutral,Uncommon,2,Single,None,25%,Cure Burn,34,567
 ,Magic,Darken Missile,1.1.3,Y,Spirit Sorcerer,Attack,Spirit,Rare,2,Single,Darken,25%,Interrupt,40,
 ,Magic,Avalanche,1.1.3,N,Water Monk,Attack,Water,Super Rare,5,Multi,Cure Burn,40%,Interrupt,61,
 ,Might,Cleansing Chalice,1.1.3,N,Air Paladin,Attack,Air,Super Rare,3,Single,Cure Confuse,20%,Critical Hit,43,
