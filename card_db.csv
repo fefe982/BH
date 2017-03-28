@@ -37,9 +37,9 @@ fd1f70ce-5432-4381-a110-0b24549ca0b6,Magic,Blinding Spirit,1.0.0,Y,Spirit Sorcer
 7c4c12e2-276c-478b-ae03-d4f35319dd13,Magic,Cool Missile,1.0.0,Y,Water Monk,Attack,Water,Common,2,Single,None,15%,Chill,24,104,37
 45c9ec3b-9c9a-4acf-bb83-ecd1490560d0,Magic,Drippy Missile,1.0.0,Y,Water Monk,Attack,Water,Common,2,Single,None,15%,Wet,36,158,38
 ,Magic,Chill Stones,1.0.0,Y,Water Monk,Attack,Water,Rare,4,Multi,Chill,25%,Wet,37,1825,39
-,Magic,Tidal Kick,1.0.0,Y,Water Monk,Attack,Water,Rare,4,Single,Stun,25%,Wet,88,4342,40
+36dd8452-a2e3-4a14-aaa7-d2d2a76b3a9a,Magic,Tidal Kick,1.0.0,Y,Water Monk,Attack,Water,Rare,4,Single,Stun,25%,Wet,88,4342,40
 7f113df8-f7db-42f7-b335-f53a72adea00,Magic,Cold Breeze,1.0.0,Y,Water Monk,Attack,Water,Uncommon,4,Multi,None,35%,Chill,36,601,41
-,Magic,Meditation,1.0.0,Y,Water Monk,Heal,Water,Super Rare,1,Self,Regen,20%,Critical Hit,162,17302,42
+628a23b3-7768-4bd4-8daa-31fa7677daf3,Magic,Meditation,1.0.0,Y,Water Monk,Heal,Water,Super Rare,1,Self,Regen,20%,Critical Hit,162,17302,42
 5eb28a2b-7015-4f93-9abd-fcc50ccf6e8a,Magic,Water Shield,1.0.0,Y,Water Monk,Shield,Water,Uncommon,2,Single,None,25%,Critical Hit,86,1435,43
 3c523891-8611-46ab-be00-36f1c7368d7c,Might,Wind Dagger,1.0.0,Y,Air Paladin,Attack,Air,Common,2,Single,None,15%,Storm,36,158,44
 627dfda1-72eb-49c3-b557-22f740228fc6,Might,Sparking Sword,1.0.0,Y,Air Paladin,Attack,Air,Common,4,Single,None,25%,Shock,85,374,45
@@ -264,7 +264,7 @@ da61f995-c845-48a7-bf23-cfcfda159b65,Magic,Arcane Break,1.1.2,Y,Neutral Magic,At
 cb7766dd-5542-48e8-9030-36cd2447c881,Might,Sundered Rocks,1.1.2,Y,Earth Warrior,Attack,Earth,Rare,3,Multi,None,20%,Interrupt,43,2121,264
 ,Might,Fellcrest Lullaby,1.1.2,N,Earth Warrior,Attack,Earth,Super Rare,3,Multi,Sleep,30%,DEF Down,35,3737,265
 ,Might,Caber Toss,1.1.2,Y,Fire Berserker,Attack,Fire,Super Rare,3,Single,x2 Shield Damage,30%,Reset,62,6621,266
-,Might,Wet Bag,1.1.2,N,Water Valkyrie,Attack,Water,Rare,3,Splash,Wet,20%,Critical Hit,43,2121,267
+e170f67d-9f80-40ae-be6c-ec6a447e8c67,Might,Wet Bag,1.1.2,N,Water Valkyrie,Attack,Water,Rare,3,Splash,Wet,20%,Critical Hit,43,2121,267
 52598701-907b-45ea-a0ae-162924ba22fc,Might,Ride of the Valkyries,1.1.2,Y,Water Valkyrie,Attack,Water,Super Rare,3,Multi,ATK Up,30%,Critical Hit,33,3524,268
 4c4ff2db-6091-4989-a78e-d29b1267f2c4,Skill,Sky Piercer,1.1.2,Y,Air Ranger,Attack,Air,Super Rare,2,Single,Pierce,25%,Critical Hit,38,4058,269
 892f250d-1744-4f08-bdf4-e3fd60a4b710,Skill,Tempest Amulet,1.1.2,Y,Air Ranger,Shield,Air,Rare,2,Single,None,15%,Critical Hit,89,4391,270
@@ -281,7 +281,7 @@ ae69ac24-4bd0-42f8-9d89-acd4b170ffc6,Magic,Fireproof Protection,1.1.3,N,Neutral 
 ,Might,Glacier,1.1.3,N,Water Valkyrie,Attack,Water,Rare,3,Single,Stun,30%,Chill,41,2022,281
 316ee8bc-c7c4-4881-86a5-75bdf132616f,Might,Frostbite Shield,1.1.3,Y,Water Valkyrie,Attack,Water,Rare,2,Self,Return Damage,15%,Cure Burn,35,1908,282
 7b2acae1-f1dc-4262-9040-f222297f288f,Skill,Storm Dart,1.1.3,Y,Air Ranger,Attack,Air,Rare,1,Single,Storm,40%,Critical Hit,15,739,283
-,Skill,Bleeding Thorn,1.1.3,Y,Earth Elf,Attack,Earth,Rare,3,Single,Bleed,15%,Critical Hit,48,2368,284
+9fa2a8c6-5f13-449c-92ca-bc83296b1b22,Skill,Bleeding Thorn,1.1.3,Y,Earth Elf,Attack,Earth,Rare,3,Single,Bleed,15%,Critical Hit,48,2368,284
 ,Skill,Fairy Shield,1.1.3,Y,Earth Elf,Shield,Earth,Super Rare,2,Single,Regen,25%,Critical Hit,90,7699,285
 ,Skill,Rain Of Fire,1.1.3,Y,Fire Rogue,Attack,Fire,Super Rare,4,Multi Flurry,Burn & Bleed,15%,Critical Hit,56,5980,286
 ,Skill,Deflective Disc,1.1.3,N,Fire Rogue,Attack,Fire,Uncommon,3,Splash,None,30%,Burn,49,818,287

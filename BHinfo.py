@@ -134,7 +134,8 @@ traits_hash = {
   },
 "f7c25be7-e88c-4d34-b4ed-7bbf83bab6d6": {
     "name": "Full Hearts",
-    "desp": "MaxHP Up {}" #61 2030
+    "desp": "MaxHP Up {}", #61 2030
+    "coef": [0.25, 14.5, 215.25]
   },
 #Thrudd
 "554b4bdb-7296-4748-99a6-2f8c7d6d2dce": {
@@ -215,7 +216,8 @@ traits_hash = {
   },
 "14aea8dc-6733-4784-91df-beb14dcb36a0": {
     "name": "Wrath",
-    "desp": "MaxHP Dn {}" #61 2030
+    "desp": "MaxHP Dn {}", #61 2030
+    "coef": [0.25, 14.5, 215.25]
   },
 #Gilda
 "f378d47c-1021-4c3a-a791-2421d153caaa": {
