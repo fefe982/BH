@@ -130,7 +130,8 @@ traits_hash = {
   },
 "aa6745ad-af30-43ad-9f4e-30a75b6a35c9": {
     "name": "Healing Kiss",
-    "desp": "Heal Party {}" #67 3372
+    "desp": "Heal Party {}", #67 3372
+    "coef": [0.4, 12.7, 96.9]
   },
 "f7c25be7-e88c-4d34-b4ed-7bbf83bab6d6": {
     "name": "Full Hearts",
