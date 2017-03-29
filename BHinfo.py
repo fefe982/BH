@@ -87,28 +87,34 @@ traits_hash = {
 #Monty
 "ebedb4eb-8879-451a-b023-53381bf4c106": {
     "name": "Meteor",
-    "desp": "Attack All {}" #89, 17567
+    "desp": "Attack All {}", #89, 17567
+    "coef": [2.15, 5.2, 74.65]
   },
 "14d7b42f-d97d-4091-98e9-b3b986b7051e": {
     "name": "Rally Party",
-    "desp": "Party AtkUp {}" #76, 1742
+    "desp": "Party AtkUp {}", #76, 1742
+    "coef": [0.2, 7.1, 47.7]
   },
 "8e5d42fa-c6af-44d3-b61d-ebe6b94f161e": {
     "name": "Protection",
-    "desp": "Defense Cards Up {}" #61, 2030
+    "desp": "Defense Cards Up {}", #61, 2030
+    "coef": [0.25, 14.5, 215.25]
   },
 #Fergus
 "18c1da01-f364-4d5b-8d54-b517c4d8f9e7": {
     "name": "Magnet",
-    "desp": "DefUp {}, Return Dmg {}" #89 82% 10227
+    "desp": "DefUp {}, Return Dmg {}", #89 82% 10227
+    "coef": [0, 0.25, 59.75, 1.25, 3.2, 41.55]
   },
 "5eb58b62-5a3b-4cdf-98e8-ee2747bd1697": {
     "name": "Fire Breath",
-    "desp": "Ramdon Atk {}" #76 3372
+    "desp": "Ramdon Atk {}", #76 3372
+    "coef": [0.4, 12.7, 96.9]
   },
 "727e60a1-4851-49bd-867d-8092da1e02b9": {
     "name": "Thumbs Up",
-    "desp": "AtkUp {}" #61 1620
+    "desp": "AtkUp {}", #61 1620
+    "coef": [0.2, 11.6, 168.2]
   },
 #Red
 "23552184-88f9-427e-9e37-a0180198f767": {
@@ -119,7 +125,7 @@ traits_hash = {
 "022f7397-eba7-4e2b-8e27-e862f02170d4": {
     "name": "Flash Bang",
     "desp": "Atk All {:.1f}, Acc Dn", #76 1806;; 55 60
-    "coef": [0.2421,4.7072,50,0507]
+    "coef": [0.2421,4.7072,50.0507]
   },
 "6614e24f-ca08-443a-8d82-a6c350a51971": {
     "name": "Blood Rush",
@@ -143,11 +149,13 @@ traits_hash = {
 #Thrudd
 "554b4bdb-7296-4748-99a6-2f8c7d6d2dce": {
     "name": "Hippy Shake",
-    "desp": "Atk All {}" #89 13223
+    "desp": "Atk All {}", #89 13223
+    "coef": [1.62, 3.76, 56.62]
   },
 "e7a9389b-ea2b-4669-829c-251cd3fcf9f5": {
     "name": "Vegan Guff",
-    "desp": "Poison Dmg {}" #67 2136
+    "desp": "Poison Dmg {}", #67 2136
+    "coef": [0.25, 8.3, 61.45]
   },
 "39b74e66-db90-4e07-b2be-b0d4c9646886": {
     "name": "Vengeance ",
@@ -158,14 +166,17 @@ traits_hash = {
 "95f4115f-0ca2-46b9-8184-dd312f9d2bbd": {
     "name": "Soul Drain",
     "desp": "Drain Trait {}, Leech Health {}", #89 28647, 6954
+    "coef": [3.5, 9, 122.5, 0.85, 2.15, 30]
   },
 "98eb0342-eca2-4c35-a535-07c50467aff6": {
     "name": "Spellbound",
     "desp": "Weaken to Magic {}", #67 2517
+    "coef": [0.3, 9.4, 70.3]
   },
 "db847be0-5661-47d8-8bb6-81864049fd3d": {
     "name": "Wizardry",
-    "desp": "Magic AtkUp {}" #61 1185
+    "desp": "Magic AtkUp {}", #61 1185
+    "coef": [0.16,7.68, 122.16]
   },
 #Brom
 "2be69fcf-9844-4ab9-b1d5-511935cf5f35": {
@@ -211,7 +222,7 @@ traits_hash = {
 #Krell
 "e69927a2-6950-4602-8ba1-9ba34eb8dc1e": {
     "name": "Haunt",
-    "desp": "DefDn 40%, AtkAll {}" #89 42% 12252
+    "desp": "DefDn {}%, AtkAll {}" #89 42% 12252
   },
 "9565f8a1-f16d-4ea3-bb88-7b54286d905f": {
     "name": "Curse",

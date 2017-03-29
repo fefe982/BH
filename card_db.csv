@@ -30,7 +30,7 @@ f10497b0-bf94-430f-ad70-8c37acd25083,Magic,Unruly Rocket,1.0.0,Y,Neutral Magic,A
 ,Magic,Shade Missile,1.0.0,Y,Spirit Sorcerer,Attack,Spirit,Common,2,Single,None,15%,Darken,36,158,30
 fd1f70ce-5432-4381-a110-0b24549ca0b6,Magic,Blinding Spirit,1.0.0,Y,Spirit Sorcerer,Attack,Spirit,Rare,2,Single,Accuracy Down,15%,Interrupt,35,1726,31
 79a0c20f-d93a-4197-9f41-f871c6180754,Magic,Confuse Cloud,1.0.0,Y,Spirit Sorcerer,Attack,Spirit,Rare,4,Multi,Confuse,25%,Darken,53,2614,32
-,Magic,Life Leecher,1.0.0,Y,Spirit Sorcerer,Attack,Spirit,Rare,3,Single,Leech,20%,Bleed,53,2614,33
+1f764431-aa66-40d4-9475-aff959756804,Magic,Life Leecher,1.0.0,Y,Spirit Sorcerer,Attack,Spirit,Rare,3,Single,Leech,20%,Bleed,53,2614,33
 ,Magic,Bemuse Haze,1.0.0,Y,Spirit Sorcerer,Attack,Spirit,Uncommon,4,Multi,None,35%,Confuse,52,868,34
 ,Magic,Shadow Missile,1.0.0,Y,Spirit Sorcerer,Attack,Spirit,Uncommon,2,Single,None,25%,Darken,39,651,35
 63ac5299-c0c8-4496-8b75-d11ccd78aefd,Magic,Mystic Shield,1.0.0,Y,Spirit Sorcerer,Shield,Spirit,Uncommon,1,Single,None,20%,Critical Hit,39,651,36
@@ -97,7 +97,7 @@ e3c11106-75c8-4900-8d31-9a781a690b93,Skill,Fairy Bottle,1.0.0,Y,Earth Elf,Heal,E
 7884f42e-f99c-4548-9d47-a598f433d558,Skill,Ricochet Arrow,1.0.0,Y,Neutral Skill,Attack,Neutral,Common,3,Splash,None,20%,Critical Hit,35,154,97
 46e785d4-44d1-44a4-b370-20cc2bde117f,Skill,Combustibolt,1.0.0,Y,Neutral Skill,Attack,Neutral,Rare,3,Single,Oil,20%,Critical Hit,49,2417,98
 9bfedf04-18ff-4250-a286-0f4bb46de97e,Skill,Destructive Arrow,1.0.0,Y,Neutral Skill,Attack,Neutral,Rare,4,Multi,None,25%,Interrupt,56,2763,99
-,Skill,Diverting Dart,1.0.0,Y,Neutral Skill,Attack,Neutral,Rare,1,Splash,None,20%,Critical Hit,12,591,100
+aa300640-d279-438f-99e6-7c36c297dd1f,Skill,Diverting Dart,1.0.0,Y,Neutral Skill,Attack,Neutral,Rare,1,Splash,None,20%,Critical Hit,12,591,100
 04b83f45-4736-4af0-b747-f5398ecebf50,Skill,Hasty Arrow,1.0.0,Y,Neutral Skill,Attack,Neutral,Rare,3,Single,None,40%,SPD Up,61,3009,101
 caffc1ae-2094-4360-898a-d2e932236783,Skill,Interrupt Arrow,1.0.0,Y,Neutral Skill,Attack,Neutral,Rare,3,Single,Interrupt,20%,Interrupt,58,2862,102
 4061ed13-b6e4-4265-803b-7024075fc033,Skill,Deflective Dart,1.0.0,Y,Neutral Skill,Attack,Neutral,Uncommon,1,Splash,None,20%,Critical Hit,10,166,103
@@ -138,7 +138,7 @@ cdd2c303-d2f3-421e-b922-a99d4eec0c71,Magic,Balloon Shield,1.0.6,Y,Neutral Magic,
 ,Magic,Nightmare,1.0.6,Y,Spirit Sorcerer,Attack,Spirit,Super Rare,4,Single,Sleep,35%,Darken,96,10253,138
 ,Magic,Conceal Party,1.0.6,Y,Spirit Sorcerer,Heal,Spirit,Common,2,Multi,None,15%,Agility,50,218,139
 51233564-2ca1-4596-937c-c9dc13d55afc,Magic,Cloak Party,1.0.6,Y,Spirit Sorcerer,Heal,Spirit,Rare,2,Multi,Agility,15%,Critical Hit,46,2270,140
-ddcad149-e66b-4006-bd6e-17e68df76f6e,Magic,Enshroud Party,1.0.6,Y,Spirit Sorcerer,Heal,Spirit,Uncommon,2,Multi,None,25%,Agility,54,901,141
+,Magic,Enshroud Party,1.0.6,Y,Spirit Sorcerer,Heal,Spirit,Uncommon,2,Multi,None,25%,Agility,54,901,141
 7e25362c-b9ee-48c8-83e4-4486d81c1625,Magic,Cool Grenade,1.0.6,Y,Water Monk,Attack,Water,Common,3,Splash,None,20%,Chill,31,136,142
 ,Magic,Chill Grenade,1.0.6,Y,Water Monk,Attack,Water,Rare,3,Splash,Chill,20%,Critical Hit,29,1431,143
 8bc1818a-c942-4281-8fcc-1bd73f475dae,Magic,Cold Grenade,1.0.6,Y,Water Monk,Attack,Water,Uncommon,3,Splash,None,30%,Chill,34,567,144
@@ -213,7 +213,7 @@ f72d29aa-90c0-4b5c-93af-a8db09fa3502,Might,Odd Seeds,1.0.9,Y,Earth Warrior,Heal,
 ,Might,Sweet Corn,1.0.9,Y,Earth Warrior,Heal,Earth,Super Rare,1,Self Flurry,None,20%,DEF Up,72,7690,213
 68d32737-f346-4bcf-96de-978f421f1fdd,Might,Weird Seeds,1.0.9,Y,Earth Warrior,Heal,Earth,Uncommon,2,Multi,Regen,25%,Warped,88,1469,214
 ,Magic,Storm's End,1.0.10,Y,Earth Witch,Heal,Earth,Super Rare,1,SIngle,Cure Storm,20%,Critical Hit,44,4698,215
-,Magic,Confuse Grenade,1.0.10,Y,Spirit Sorcerer,Attack,Spirit,Rare,3,Splash,Confuse,20%,Critical Hit,41,2022,216
+ddcad149-e66b-4006-bd6e-17e68df76f6e,Magic,Confuse Grenade,1.0.10,Y,Spirit Sorcerer,Attack,Spirit,Rare,3,Splash,Confuse,20%,Critical Hit,41,2022,216
 e00b8397-aba3-48f6-a7bd-b7ed2caea0dc,Magic,Snake Charmer,1.0.10,Y,Spirit Sorcerer,Attack,Spirit,Super Rare,3,Multi,Charm,30%,Stun,42,4485,217
 b54a490a-bf1b-473d-97fa-b0bda1d96dff,Magic,Chill Missile,1.0.10,Y,Water Monk,Attack,Water,Rare,2,Single,Chill,15%,Wet,26,1282,218
 3d9f3178-23bc-4572-9bc9-febcde86e7c6,Might,Wrath of God,1.0.10,Y,Air Paladin,Attack,Air,Super Rare,6,Multi,Storm,40%,Shock,105,11214,219
@@ -246,7 +246,7 @@ b2462cbe-6adc-4d75-9331-77b0c8c51629,Skill,Multi-Spike,1.1.0,Y,Spirit Thief,Atta
 1b5f714a-f836-49c4-8a81-b1d0ee87b948,Skill,Cloaked,1.1.0,Y,Spirit Thief,Heal,Spirit,Rare,1,Single,Agility,10%,Critical Hit,35,1726,246
 0cd06076-bff6-461f-97ff-e808f2b4ac12,Magic,Iron Break,1.1.1,Y,Fire Mage,Attack,Fire,Super Rare,2,Single,Break,25%,Burn,42,4485,247
 ,Magic,Moonbeam,1.1.1,Y,Spirit Sorcerer,Attack,Spirit,Super Rare,1,Splash,Accuracy Down,20%,Interrupt,15,1601,248
-,Magic,Spectral Protection,1.1.1,Y,Spirit Sorcerer,Shield,Spirit,Rare,2,Single,None,15%,Critical Hit,97,4786,249
+69fe68b0-d6ef-4dec-a8eb-0150eef2b85d,Magic,Spectral Protection,1.1.1,Y,Spirit Sorcerer,Shield,Spirit,Rare,2,Single,None,15%,Critical Hit,97,4786,249
 ,Might,Peace Pipe,1.1.1,Y,Earth Warrior,Heal,Earth,Super Rare,1,Single,Terra,20%,Critical Hit,47,5019,250
 ,Might,Mutton Chops,1.1.1,Y,Fire Berserker,Attack,Fire,Rare,1,Single,Regen,10%,Stun,15,739,251
 74f1993b-82f7-4dec-aea1-f0b2994186e6,Magic,Noxious Grenade,1.1.2,Y,Earth Witch,Attack,Earth,Common,3,Splash,None,20%,Poison,44,193,252
@@ -292,7 +292,7 @@ fcb07ebf-b00c-4a0b-ab78-6f981f08e006,Magic,Earth Quake,1.1.4,N,Earth Witch,Attac
 4b011ad7-d3ec-4e37-ae88-da65d9982b0b,Skill,Shell Cutlass,1.1.4,Y,Water Pirate,Attack,Water,Common,2,Single,None,15%,Critical Hit,30,132,292
 4defc1df-343e-4e14-afc2-ed3b428ec976,Skill,Shrimp Pistol,1.1.4,Y,Water Pirate,Attack,Water,Common,2,Single,None,15%,Wet,36,158,293
 1797a5bd-3691-4c4e-8ad3-48353a436709,Skill,Clam Blunderbuss,1.1.4,Y,Water Pirate,Attack,Water,Common,3,Splash,None,20%,Interrupt,47,205,294
-,Skill,Piranha Pistol,1.1.4,Y,Water Pirate,Attack,Water,Rare,2,Single,Wet,15%,Critical Hit,33,1628,295
+d6af58cd-9bf8-43b7-995b-0264efe1c791,Skill,Piranha Pistol,1.1.4,Y,Water Pirate,Attack,Water,Rare,2,Single,Wet,15%,Critical Hit,33,1628,295
 e7d163ef-eb23-4816-940c-afd10e452385,Skill,Rum Shower,1.1.4,Y,Water Pirate,Attack,Water,Rare,2,Single,Oil,15%,Confuse,45,2187,296
 d0c8ef43-b8bd-4507-abaa-2b4222217e6a,Skill,Oyster Blunderbuss,1.1.4,Y,Water Pirate,Attack,Water,Rare,3,Splash,Interrupt,20%,Critical Hit,43,2121,297
 ,Skill,Shark Cannon,1.1.4,Y,Water Pirate,Attack,Water,Super Rare,3,Splash,Bleed,30%,Wet,40,3865,298
@@ -304,7 +304,7 @@ a161c5f4-1dc5-4e7f-a418-4468247520ab,Skill,Grog Flask,1.1.4,Y,Water Pirate,Heal,
 eb84b02f-8320-4304-9641-0a96249a8392,Skill,Grog Bottle,1.1.4,N,Water Pirate,Heal,Water,Rare,1,Self,ATK Up,10%,Critical Hit,44,2170,304
 1743e7dc-4a9f-44d4-927e-1e373db787bf,Skill,Grog Tankard,1.1.4,Y,Water Pirate,Heal,Water,Uncommon,1,Self,None,20%,ATK Up,52,868,305
 72d4962b-eb54-498e-87a8-39c77bc0b85b,Magic,Candy Cauldron,1.1.5,N,Earth Witch,Heal,Earth,Super Rare,2,Multi,Regen,25%,SPD Up,121,12922,306
-,Magic,Burning Grenade,1.1.5,Y,Fire Mage,Attack,Fire,Rare,3,Splash,Burn,20%,Critical Hit,38,1875,307
+9d0529bb-66e4-4500-96fb-063eefb81c97,Magic,Burning Grenade,1.1.5,Y,Fire Mage,Attack,Fire,Rare,3,Splash,Burn,20%,Critical Hit,38,1875,307
 ,Magic,Pumpkin Field,1.1.5,Y,Spirit Sorcerer,Attack,Spirit,Super Rare,3,Multi Flurry,SPD Down,30%,Interrupt,45,3849,308
 d6adcd28-dfd1-486e-8a81-984ac630479c,Might,Hot Boulder,1.1.5,N,Fire Berserker,Attack,Fire,Rare,3,Single,Stun,20%,Interrupt,61,3009,309
 5fef8e72-0d49-4e77-b763-62444ffd0510,Might,Wet Dagger,1.1.5,N,Water Valkyrie,Attack,Water,Rare,2,Single,Wet,15%,Critical Hit,33,1628,310
