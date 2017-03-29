@@ -113,11 +113,13 @@ traits_hash = {
 #Red
 "23552184-88f9-427e-9e37-a0180198f767": {
     "name": "Death Trap",
-    "desp": "Atk All {}, 35% Bleed" #89 14712
+    "desp": "Atk All {}, 35% Bleed", #89 14712
+    "coef": [1.8, 4.5, 62.7]
   },
 "022f7397-eba7-4e2b-8e27-e862f02170d4": {
     "name": "Flash Bang",
-    "desp": "Atk All {}, Acc Dn" #76 1806;; 55 60
+    "desp": "Atk All {:.1f}, Acc Dn", #76 1806;; 55 60
+    "coef": [0.2421,4.7072,50,0507]
   },
 "6614e24f-ca08-443a-8d82-a6c350a51971": {
     "name": "Blood Rush",

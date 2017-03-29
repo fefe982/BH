@@ -201,7 +201,7 @@ d3432bad-b6ad-4c60-8553-95997ad5615f,Skill,Bronze Dart,1.0.8,Y,Neutral Skill,Att
 6c8c3110-9d8c-44f7-a458-0d039c4f0012,Might,Bore Spear,1.0.9,Y,Earth Warrior,Attack,Earth,Common,2,Single,Pierce,15%,Critical Hit,27,118,201
 348ab2ed-6fdb-474b-aac9-21d016a80350,Might,Grounded Sword,1.0.9,Y,Earth Warrior,Attack,Earth,Common,4,Single,None,25%,Terra,85,374,202
 5f37bbfb-ab9c-4a80-815c-dd1f54dc747a,Might,Noxious Dung,1.0.9,Y,Earth Warrior,Attack,Earth,Common,3,Single,None,20%,Poison,55,240,203
-,Might,Piercing Spear,1.0.9,Y,Earth Warrior,Attack,Earth,Rare,2,Single,Pierce,40%,Critical Hit,33,1628,204
+25484de6-be78-43a4-aa82-aac475768641,Might,Piercing Spear,1.0.9,Y,Earth Warrior,Attack,Earth,Rare,2,Single,Pierce,40%,Critical Hit,33,1628,204
 a70bb41b-848b-4c83-b777-f4c8f1b9c2fe,Might,Poisonous Dung,1.0.9,Y,Earth Warrior,Attack,Earth,Rare,3,Single,Poison,20%,Stun,54,2665,205
 2f8d3cc0-66c3-4fa3-af31-54c05dd3c968,Might,Terra Sword,1.0.9,Y,Earth Warrior,Attack,Earth,Rare,4,Single,Terra,25%,Interrupt,93,4589,206
 cfd9ee9a-77ef-43eb-9087-2fa71ba2510e,Might,Rocking Roll,1.0.9,Y,Earth Warrior,Attack,Earth,Super Rare,5,Single,Stun,40%,Interrupt,151,16127,207
@@ -348,7 +348,7 @@ db67ce85-fac9-405c-8d42-9991af448c2a,Skill,Diverting Pin,1.2.1,N,Air Ranger,Atta
 ,Magic,Apnoea,1.2.4,N,Water Monk,Attack,Water,Rare,3,Single,Poison,20%,Wet,32,1576,348
 ,Skill,Voodoo Ritual,1.2.4,N,Water Pirate,Attack,Water,Super Rare,2,Single,ATK Up,25%,ATK Up,18,1768,349
 ,Skill,Tropical Juice,1.2.5,N,Water Pirate,Heal,Water,Rare,1,Self,Regen,10%,Max HP Up,80,3947,350
-,Might,Cornholio,1.2.5,N,Earth Warrior,Attack,Earth,Rare,2,Single,Wet,15%,Break,30,1444,351
+40f6062d-5ba2-4cf8-ab7d-5a25f920fb56,Might,Cornholio,1.2.5,N,Earth Warrior,Attack,Earth,Rare,2,Single,Wet,15%,Break,30,1444,351
 ,Might,Divine Thunder,1.2.5,N,Air Paladin,Attack,Air,Rare,4,Multi,Shock,25%,Stun,47,2319,352
 ,Magic,Witch's Brew,1.2.5,N,Earth Witch,Heal,Earth,Super Rare,1,Multi,DEF Up,20%,ATK Up,25,7382,353
 ,Magic,Spent Force,1.2.5,N,Spirit Sorcerer,Attack,Spirit,Super Rare,3,Single,Wet,45%,Break,79,8437,354
