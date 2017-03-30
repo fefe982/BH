@@ -31,7 +31,7 @@ f10497b0-bf94-430f-ad70-8c37acd25083,Magic,Unruly Rocket,1.0.0,Y,Neutral Magic,A
 fd1f70ce-5432-4381-a110-0b24549ca0b6,Magic,Blinding Spirit,1.0.0,Y,Spirit Sorcerer,Attack,Spirit,Rare,2,Single,Accuracy Down,15%,Interrupt,35,1726,31
 79a0c20f-d93a-4197-9f41-f871c6180754,Magic,Confuse Cloud,1.0.0,Y,Spirit Sorcerer,Attack,Spirit,Rare,4,Multi,Confuse,25%,Darken,53,2614,32
 1f764431-aa66-40d4-9475-aff959756804,Magic,Life Leecher,1.0.0,Y,Spirit Sorcerer,Attack,Spirit,Rare,3,Single,Leech,20%,Bleed,53,2614,33
-,Magic,Bemuse Haze,1.0.0,Y,Spirit Sorcerer,Attack,Spirit,Uncommon,4,Multi,None,35%,Confuse,52,868,34
+507855a1-44c6-4979-87f6-26831b2213fb,Magic,Bemuse Haze,1.0.0,Y,Spirit Sorcerer,Attack,Spirit,Uncommon,4,Multi,None,35%,Confuse,52,868,34
 ,Magic,Shadow Missile,1.0.0,Y,Spirit Sorcerer,Attack,Spirit,Uncommon,2,Single,None,25%,Darken,39,651,35
 63ac5299-c0c8-4496-8b75-d11ccd78aefd,Magic,Mystic Shield,1.0.0,Y,Spirit Sorcerer,Shield,Spirit,Uncommon,1,Single,None,20%,Critical Hit,39,651,36
 7c4c12e2-276c-478b-ae03-d4f35319dd13,Magic,Cool Missile,1.0.0,Y,Water Monk,Attack,Water,Common,2,Single,None,15%,Chill,24,104,37
@@ -49,7 +49,7 @@ fd1f70ce-5432-4381-a110-0b24549ca0b6,Magic,Blinding Spirit,1.0.0,Y,Spirit Sorcer
 c31ea4b4-24d2-461e-a667-1ba9f78af9cd,Might,Clear Head,1.0.0,Y,Air Paladin,Heal,Air,Uncommon,2,Self,Cure Confuse,25%,Critical Hit,61,1018,49
 0d474480-03ff-49ae-981c-8403646e01cb,Might,Flaming Axe,1.0.0,Y,Fire Berserker,Attack,Fire,Common,5,Multi,None,30%,Critical Hit,57,250,50
 d49125c1-64ef-4d42-af14-53598d6b6882,Might,Smoking Dagger,1.0.0,Y,Fire Berserker,Attack,Fire,Common,2,Single,None,15%,Burn,35,154,51
-,Might,Burning Blade,1.0.0,Y,Fire Berserker,Attack,Fire,Rare,4,Single,Burn,25%,Oil,83,4096,52
+0445b39d-12fb-41db-a0c5-1997411bd69e,Might,Burning Blade,1.0.0,Y,Fire Berserker,Attack,Fire,Rare,4,Single,Burn,25%,Oil,83,4096,52
 c4822eec-2a07-4da5-9b5c-ab98db3816e1,Might,Burning Dagger,1.0.0,Y,Fire Berserker,Attack,Fire,Rare,2,Single,Burn,15%,Oil,35,1726,53
 e8a456d1-8023-4e41-9ed8-8cead68ee8b4,Might,Ember Dagger,1.0.0,Y,Fire Berserker,Attack,Fire,Uncommon,2,Single,None,25%,Burn,38,634,54
 381a6e85-dda5-48a1-a9fe-3768f3be485d,Might,Flaming Shield,1.0.0,Y,Fire Berserker,Shield,Fire,Uncommon,2,Self,None,25%,Critical Hit,70,1168,55
@@ -191,7 +191,7 @@ c40bb24c-4e54-4b0f-ac32-71f2c789fc89,Skill,Warm Coffee,1.0.7,Y,Fire Rogue,Heal,F
 ebb7efc4-1894-45b8-8c32-2e7ca8cf8696,Might,Magnet Shield,1.0.8,Y,Neutral Might,Shield,Neutral,Super Rare,2,Self,Taunt,25%,Critical Hit,65,6942,191
 6bab5d46-9bc1-4deb-8798-a91e4f89f19f,Might,Bronze Shield,1.0.8,Y,Neutral Might,Shield,Neutral,Uncommon,1,Self,None,20%,Critical Hit,29,483,192
 ,Might,Wet Kiss,1.0.8,Y,Water Valkyrie,Heal,Water,Super Rare,2,Self,Charm,25%,Critical Hit,69,7369,193
-,Skill,Healing Light,1.0.8,Y,Air Ranger,Shield,Air,Super Rare,1,Multi,None,20%,Critical Hit,22,2348,194
+ce1107e8-255b-4e83-80c7-5bfe0bfdb0d8,Skill,Healing Light,1.0.8,Y,Air Ranger,Shield,Air,Super Rare,1,Multi,None,20%,Critical Hit,22,2348,194
 a2e873b7-6729-40da-9af1-ccbd73b12aea,Skill,Acid Splash,1.0.8,Y,Earth Elf,Attack,Earth,Super Rare,3,Splash,Poison,30%,Terra,42,4485,195
 56f73c58-64f5-429f-9456-313f7669a13b,Skill,Diverting Arrow,1.0.8,Y,Neutral Skill,Attack,Neutral,Rare,3,Splash,None,40%,Critical Hit,43,2121,196
 71031a15-b10e-4a28-9504-bcc6307bf652,Skill,Silver Dart,1.0.8,Y,Neutral Skill,Attack,Neutral,Rare,1,Single,None,30%,Critical Hit,15,739,197
@@ -239,7 +239,7 @@ b716ccac-7400-410f-a9ae-97681cba0674,Magic,Smelling Salts,1.1.0,Y,Water Monk,Hea
 6ac3dbc8-4915-414e-8c1a-5f2e60beb6b9,Skill,Charged Dart,1.1.0,Y,Air Ranger,Attack,Air,Uncommon,2,Single,None,25%,Shock,39,651,239
 2638178d-c911-4b3c-9e8f-14ea6df8e0b6,Skill,Sleeping Dust,1.1.0,Y,Earth Elf,Attack,Earth,Rare,2,Multi,Sleep,15%,Poison,20,986,240
 ,Skill,Ivywood Piercer,1.1.0,Y,Earth Elf,Attack,Earth,Super Rare,1,Single,Poison,20%,Critical Hit,14,1495,241
-,Skill,Healing Splash,1.1.0,Y,Earth Elf,Heal,Earth,Super Rare,1,Splash,None,20%,Critical Hit,37,3951,242
+df5f0595-d0a0-4d74-b25d-6d7e1f56b171,Skill,Healing Splash,1.1.0,Y,Earth Elf,Heal,Earth,Super Rare,1,Splash,None,20%,Critical Hit,37,3951,242
 ,Skill,Piercing Hellfire,1.1.0,Y,Fire Rogue,Attack,Fire,Super Rare,3,Single,Burn,30%,Bleed,63,6728,243
 ebbf33ea-4886-4886-ba17-1b4c89f92fc7,Skill,Darkness Spike,1.1.0,Y,Spirit Thief,Attack,Spirit,Rare,3,Single,Darken,20%,Critical Hit,54,2665,244
 b2462cbe-6adc-4d75-9331-77b0c8c51629,Skill,Multi-Spike,1.1.0,Y,Spirit Thief,Attack,Spirit,Uncommon,4,Multi,None,35%,Critical Hit,45,751,245

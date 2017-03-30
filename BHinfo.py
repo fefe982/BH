@@ -125,16 +125,18 @@ traits_hash = {
 "022f7397-eba7-4e2b-8e27-e862f02170d4": {
     "name": "Flash Bang",
     "desp": "Atk All {:.1f}, Acc Dn", #76 1806;; 55 60
-    "coef": [0.2421,4.7072,50.0507]
+    "coef": [0.242,4.716,50.042]
   },
 "6614e24f-ca08-443a-8d82-a6c350a51971": {
     "name": "Blood Rush",
-    "desp": "Bleed DmgUp {}" #61 2365
+    "desp": "Bleed DmgUp {}", #61 2365
+    "coef": [0.25, 19.5, 245.25]
   },
 #Bree
 "3421fa4e-2672-468d-b1e1-de51adcccbfa": {
     "name": "Remedy Rush",
-    "desp": "Heal Party {}" #89 12115
+    "desp": "Heal Party {}", #89 12115
+    "coef": [1.48, 3.84, 50.68]
   },
 "aa6745ad-af30-43ad-9f4e-30a75b6a35c9": {
     "name": "Healing Kiss",
@@ -181,24 +183,29 @@ traits_hash = {
 #Brom
 "2be69fcf-9844-4ab9-b1d5-511935cf5f35": {
     "name": "Holy Sword", # 89, 20891
-    "desp": "Attack All {}" 
+    "desp": "Attack All {}" ,
+    "coef": [2.55, 6.8, 87.55]
   },
 "5e6e28d4-ffea-4c25-bd8f-76b82604bdd8": {
     "name": "Stronghold",
-    "desp": "Party Shield {}" # 76, 3372
+    "desp": "Party Shield {}", # 76, 3372
+    "coef": [0.4, 12.7, 96.9]
   },
 "816fd66b-e94b-457d-bbc2-a09ce3fa8a26": {
     "name": "Resurrect",
-    "desp": "resurrect at {}" # 61, 12200
+    "desp": "resurrect at {}", # 61, 12200
+    "coef": [1.5, 87, 1311.5]
   },
 #Hawkeye
 "606a9247-535e-4733-ba83-b98224e2860b": {
     "name": "Whirl Wind",
-    "desp": "Attack All {}" #20468, 89; 37 3750; 39 3944
+    "desp": "Attack All {}", #20468, 89; 37 3750; 39 3944
+    "coef": [2.5, 6.5, 87]
   },
 "1e259702-9ae1-4a19-9fb9-933df6f64bd6": {
     "name": "Focus",
-    "desp": "Weaken to Ranged {}" #2517, 76; 23 445; 24 468
+    "desp": "Weaken to Ranged {}", #2517, 76; 23 445; 24 468
+    "coef": [0.3, 9.4, 70.3]
   },
 "5cc06ef9-c400-4537-b554-75238d9efcee": {
     "name": "Sharpen",
@@ -209,10 +216,12 @@ traits_hash = {
 "2586e4ac-e0dd-4a9c-bd9a-cf2cbcba8c5d": {
     "name": "The Dropper",
     "desp": "Atk All {}", #89 19473
+    "coef": [2.38, 6.04, 83.58]
   },
 "834b9969-d6a7-4058-a788-51e5e4df38aa": {
     "name": "Steal Life",
-    "desp": "Leech {}" #61 2424
+    "desp": "Leech {}", #61 2424
+    "coef": [0.374, 16.242, 283.384]
   },
 "bccd8f3b-1fbc-4840-970f-891b0bc2aaf5": {
     "name": "Increase Loot",
@@ -222,7 +231,8 @@ traits_hash = {
 #Krell
 "e69927a2-6950-4602-8ba1-9ba34eb8dc1e": {
     "name": "Haunt",
-    "desp": "DefDn {}%, AtkAll {}" #89 42% 12252
+    "desp": "AtkAll {}, DefDn {}%", #89 42% 12252
+    "coef": [1.5, 3.6, 50.9, 0, 0.25, 19.75]
   },
 "9565f8a1-f16d-4ea3-bb88-7b54286d905f": {
     "name": "Curse",
@@ -236,41 +246,50 @@ traits_hash = {
 #Gilda
 "f378d47c-1021-4c3a-a791-2421d153caaa": {
     "name": "Shield Maiden",
-    "desp": "AtkAll {}, 40% CHILL"
+    "desp": "AtkAll {}, 40% CHILL",
+    "coef": [2.3, 5.65, 80.05]
   },
 "bb56f5dc-5fa4-4d99-b8ca-0457f2475d3b": {
     "name": "Battle Horn",
-    "desp": "Charge Traits {}"
+    "desp": "Charge Traits {}",
+    "coef": [1.2, 31.6, 317.2]
   },
 "8a08836d-b97b-4a72-ad37-5cec214e84a6": {
     "name": "Defender",
-    "desp": "Shield Up {}"
+    "desp": "Shield Up {}",
+    "coef": [0.4, 16.2, 343.4]
   },
 #Logan
 "5ac32330-545f-4cae-9edc-095ba5065e67": {
     "name": "WaterWall",
-    "desp": "Bonus Water Dmg {}%, Return Dmg {}"
+    "desp": "Bonus Water Dmg {}%, Return Dmg {}",
+    "coef": [0, 0.275, 29.725, 1.2, 3.3, 41.5]
   },
 "d6e0e8d8-d955-403a-8290-e966475bab33": {
     "name": "Holy Water",
-    "desp": "Heal Self {}/Cure Party"
+    "desp": "Heal Self {}/Cure Party",
+    "coef": [0.5, 15, 119.5]
   },
 "8b942c09-dc3e-4da2-a200-53524c02fbb5": {
     "name": "Angels Kiss",
-    "desp": "Heal Cards Up {}"
+    "desp": "Heal Cards Up {}",
+    "coef": [0.4, 29.2, 405.4]
   },
 #Peg
 "ba88d770-c073-49a7-b69d-6d695b4ee9ca": {
     "name": "Ghost Ship",
-    "desp": "Atk All {}, Shld {}"
+    "desp": "Atk All {}, Shld {}",
+    "coef": [1.75, 4.9, 62.35, 4.63, 10.24, 150.13]
   },
 "e6f381ba-1589-4af4-868a-1421dba8b556": {
     "name": "Wind to the Sails",
-    "desp": "Air C Atk Bonus {}, Slf Air Dmg Bonus {}"
+    "desp": "Air C Atk Bonus {}, Slf Air Dmg Bonus {}",
+    "coef": [0.26, 9.48, 65.26, 0.2, 7.1, 47.7]
   },
 "71a9852e-9c9e-4dc4-84c7-e1307ba9a425": {
     "name": "See Legs",
-    "desp": "... AtkUp {}"
+    "desp": "... AtkUp {}",
+    "coef": [0.75, 9, 300.25]
   },
 }
 
