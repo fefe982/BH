@@ -147,7 +147,7 @@ d4a9ea43-97ed-4199-b937-e4c55be92a18,Might,Quartzstone,1.0.6,Y,Air Paladin,Attac
 b6e347d0-53ac-48ae-9e84-2a392a56409e,Might,Chalkstone,1.0.6,Y,Air Paladin,Attack,Air,Uncommon,3,Single,None,30%,Stun,60,1002,147
 cb9af94e-b393-4342-ae86-4c74f3e0b7af,Might,Flammable Bag,1.0.6,Y,Fire Berserker,Attack,Fire,Common,3,Splash,None,20%,Oil,47,205,148
 a636a66b-1131-47ea-a338-712fa30119fd,Might,Fiery Axe,1.0.6,Y,Fire Berserker,Attack,Fire,Rare,5,Multi,None,30%,Critical Hit,70,3453,149
-,Might,Oil Bag,1.0.6,Y,Fire Berserker,Attack,Fire,Rare,3,Splash,Oil,20%,Critical Hit,43,2121,150
+ce7b14c6-33fe-424e-9da8-5051bff9d19d,Might,Oil Bag,1.0.6,Y,Fire Berserker,Attack,Fire,Rare,3,Splash,Oil,20%,Critical Hit,43,2121,150
 b359cc8f-0300-409f-8929-ccf5d197dcd0,Might,Combustible Bag,1.0.6,Y,Fire Berserker,Attack,Fire,Uncommon,3,Splash,None,30%,Oil,50,834,151
 743208a1-d4b9-45fe-bacb-91edb43a5b7b,Might,Explosive Bag,1.0.6,Y,Neutral Might,Attack,Neutral,Rare,3,Splash,None,40%,Critical Hit,43,2121,152
 75c1f8bb-7439-4f83-993e-554c742adf6b,Might,Cool Club,1.0.6,Y,Water Valkyrie,Attack,Water,Common,2,Single,None,15%,Chill,24,104,153
@@ -180,7 +180,7 @@ c40bb24c-4e54-4b0f-ac32-71f2c789fc89,Skill,Warm Coffee,1.0.7,Y,Fire Rogue,Heal,F
 0a5adbf0-60fe-45ad-8083-7cb122047c9f,Skill,Boiling Coffee,1.0.7,Y,Fire Rogue,Heal,Fire,Rare,1,Single,None,30%,SPD Up,45,2220,180
 816e3f77-21e3-435c-89ab-84fb88e519af,Skill,Hot Coffee,1.0.7,Y,Fire Rogue,Heal,Fire,Uncommon,1,Single,None,20%,SPD Up,40,667,181
 ,Magic,Poison Grenade,1.0.8,Y,Earth Witch,Attack,Earth,Rare,3,Splash,Poison,20%,Critical Hit,38,1875,182
-,Magic,Rejuvenate All,1.0.8,Y,Neutral Magic,Heal,Neutral,Super Rare,1,Multi,None,20%,Max HP Up,32,3417,183
+67d17802-68a1-445f-adb3-e95c1a05fb62,Magic,Rejuvenate All,1.0.8,Y,Neutral Magic,Heal,Neutral,Super Rare,1,Multi,None,20%,Max HP Up,32,3417,183
 ,Magic,Night Cap,1.0.8,Y,Spirit Sorcerer,Heal,Spirit,Super Rare,1,Self,Regen,20%,DEF Up,78,8330,184
 617a3165-ca3e-4471-9ef7-39497ff45039,Magic,Wet Missile,1.0.8,Y,Water Monk,Attack,Water,Rare,2,Single,Wet,15%,Interrupt,40,1973,185
 ,Magic,Channeling Chi,1.0.8,Y,Water Monk,Attack,Water,Super Rare,2,Random,Darken,25%,Accuracy Up,39,4164,186
