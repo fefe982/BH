@@ -32,7 +32,7 @@ fd1f70ce-5432-4381-a110-0b24549ca0b6,Magic,Blinding Spirit,1.0.0,Y,Spirit Sorcer
 79a0c20f-d93a-4197-9f41-f871c6180754,Magic,Confuse Cloud,1.0.0,Y,Spirit Sorcerer,Attack,Spirit,Rare,4,Multi,Confuse,25%,Darken,53,2614,32
 1f764431-aa66-40d4-9475-aff959756804,Magic,Life Leecher,1.0.0,Y,Spirit Sorcerer,Attack,Spirit,Rare,3,Single,Leech,20%,Bleed,53,2614,33
 507855a1-44c6-4979-87f6-26831b2213fb,Magic,Bemuse Haze,1.0.0,Y,Spirit Sorcerer,Attack,Spirit,Uncommon,4,Multi,None,35%,Confuse,52,868,34
-,Magic,Shadow Missile,1.0.0,Y,Spirit Sorcerer,Attack,Spirit,Uncommon,2,Single,None,25%,Darken,39,651,35
+d89c69bc-0480-4d34-b629-291a59bcca83,Magic,Shadow Missile,1.0.0,Y,Spirit Sorcerer,Attack,Spirit,Uncommon,2,Single,None,25%,Darken,39,651,35
 63ac5299-c0c8-4496-8b75-d11ccd78aefd,Magic,Mystic Shield,1.0.0,Y,Spirit Sorcerer,Shield,Spirit,Uncommon,1,Single,None,20%,Critical Hit,39,651,36
 7c4c12e2-276c-478b-ae03-d4f35319dd13,Magic,Cool Missile,1.0.0,Y,Water Monk,Attack,Water,Common,2,Single,None,15%,Chill,24,104,37
 45c9ec3b-9c9a-4acf-bb83-ecd1490560d0,Magic,Drippy Missile,1.0.0,Y,Water Monk,Attack,Water,Common,2,Single,None,15%,Wet,36,158,38
@@ -179,7 +179,7 @@ b852b096-4c71-4dec-9d59-c6a1c739acea,Skill,Ember Disc,1.0.7,Y,Fire Rogue,Attack,
 c40bb24c-4e54-4b0f-ac32-71f2c789fc89,Skill,Warm Coffee,1.0.7,Y,Fire Rogue,Heal,Fire,Common,1,Single,None,10%,SPD Up,37,161,179
 0a5adbf0-60fe-45ad-8083-7cb122047c9f,Skill,Boiling Coffee,1.0.7,Y,Fire Rogue,Heal,Fire,Rare,1,Single,None,30%,SPD Up,45,2220,180
 816e3f77-21e3-435c-89ab-84fb88e519af,Skill,Hot Coffee,1.0.7,Y,Fire Rogue,Heal,Fire,Uncommon,1,Single,None,20%,SPD Up,40,667,181
-,Magic,Poison Grenade,1.0.8,Y,Earth Witch,Attack,Earth,Rare,3,Splash,Poison,20%,Critical Hit,38,1875,182
+aba268e6-e2f4-48d5-afbd-49a1428a6928,Magic,Poison Grenade,1.0.8,Y,Earth Witch,Attack,Earth,Rare,3,Splash,Poison,20%,Critical Hit,38,1875,182
 67d17802-68a1-445f-adb3-e95c1a05fb62,Magic,Rejuvenate All,1.0.8,Y,Neutral Magic,Heal,Neutral,Super Rare,1,Multi,None,20%,Max HP Up,32,3417,183
 ,Magic,Night Cap,1.0.8,Y,Spirit Sorcerer,Heal,Spirit,Super Rare,1,Self,Regen,20%,DEF Up,78,8330,184
 617a3165-ca3e-4471-9ef7-39497ff45039,Magic,Wet Missile,1.0.8,Y,Water Monk,Attack,Water,Rare,2,Single,Wet,15%,Interrupt,40,1973,185
@@ -284,7 +284,7 @@ ae69ac24-4bd0-42f8-9d89-acd4b170ffc6,Magic,Fireproof Protection,1.1.3,N,Neutral 
 9fa2a8c6-5f13-449c-92ca-bc83296b1b22,Skill,Bleeding Thorn,1.1.3,Y,Earth Elf,Attack,Earth,Rare,3,Single,Bleed,15%,Critical Hit,48,2368,284
 ,Skill,Fairy Shield,1.1.3,Y,Earth Elf,Shield,Earth,Super Rare,2,Single,Regen,25%,Critical Hit,90,7699,285
 ,Skill,Rain Of Fire,1.1.3,Y,Fire Rogue,Attack,Fire,Super Rare,4,Multi Flurry,Burn & Bleed,15%,Critical Hit,56,5980,286
-,Skill,Deflective Disc,1.1.3,N,Fire Rogue,Attack,Fire,Uncommon,3,Splash,None,30%,Burn,49,818,287
+89db020f-a3e3-4a79-a178-64fb3357c5a0,Skill,Deflective Disc,1.1.3,N,Fire Rogue,Attack,Fire,Uncommon,3,Splash,None,30%,Burn,49,818,287
 127d9845-d175-4f34-936c-33261c879cc8,Skill,Spike Barrage,1.1.3,Y,Spirit Thief,Attack,Spirit,Rare,4,Multi,None,25%,Interrupt,62,3059,288
 ,Skill,Hard Luck,1.1.3,Y,Spirit Thief,Attack,Spirit,Super Rare,2,Single,Card Stats Down DE,25%,Accuracy Down,56,4279,289
 fcb07ebf-b00c-4a0b-ab78-6f981f08e006,Magic,Earth Quake,1.1.4,N,Earth Witch,Attack,Earth,Rare,4,Multi,Interrupt,25%,Interrupt,56,2763,290
@@ -370,5 +370,5 @@ c4b8b317-52e3-4628-acae-942f59d9d1d8,Magic,Vampiric Bats,1.2.3,N,Spirit Sorcerer
 e169a478-0a5c-40e6-abfd-b5fbd1d0215c,Magic,Scorching Flames,1.2.8,N,Fire Mage,Attack,Fire,Super Rare,1,Single,None,35%,Extend Burn,21,1541,370
 ,Might,The Equalizer,1.2.8,N,Air Paladin,Attack,Air,Super Rare,3,Self,Regen,25%,Storm,60,4479,371
 5c7b9ef9-801a-4653-a9f3-6e07f605ed22,Might,Mead Sip,1.2.8,N,Water Valkyrie,Heal,Water,Rare,1,Self,None,30%,DEF Up,61,3009,372
-,Magic,Hex,1.2.8,N,Spirit Sorcerer,Attack,Spirit,Rare,3,Multi,Darken,20%,Double Damage,26,1222,373
+704f66dd-5c3d-4c1b-a880-f135e228e9b2,Magic,Hex,1.2.8,N,Spirit Sorcerer,Attack,Spirit,Rare,3,Multi,Darken,20%,Double Damage,26,1222,373
 ,Might,Sword of Justice,1.2.0,N,Air Paladin,Attack,Air,Rare,3,Self,Regen,15%,Storm,40,1779,374
