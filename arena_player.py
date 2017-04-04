@@ -4,11 +4,11 @@ import io
 import math
 from BHinfo import *
 
-f = open("arena_player.raw", "r");
+f = open("input.raw", "r");
 YY = json.load(f)
 f.close()
 
-f = io.open("arena_player.out", "w", encoding="utf8");
+f = io.open("output.out", "w", encoding="utf8");
 for p1 in YY:
   for x, p2 in p1.iteritems():
     for uid, player in p2.iteritems():

@@ -4,11 +4,11 @@ import io
 import math
 from BHinfo import *
 
-f = open("guild_scout.raw", "r");
+f = open("input.raw", "r");
 YY = json.load(f)
 f.close()
 
-f = io.open("guild_scout.out", "w", encoding="utf8");
+f = io.open("output.out", "w", encoding="utf8");
 for k, g in YY["members"].iteritems():
     if k == my_guild_id :
         continue
