@@ -328,7 +328,7 @@ da5a7ca7-e6b7-4e1a-95f1-e9e8030c719d,Skill,Stingray Dart,1.1.5,N,Water Pirate,At
 db67ce85-fac9-405c-8d42-9991af448c2a,Skill,Diverting Pin,1.2.1,N,Air Ranger,Attack,Air,Rare,3,Splash,None,40%,Critical,48,2368,328
 ,Magic,Feed the Toxins,1.2.1,N,Earth Witch,Attack,Earth,Rare,1,Single,None,25%,Extend Poison,18,888,329
 ,Magic,Lava Wave,1.2.1,N,Fire Mage,Attack,Fire,Super Rare,4,Multi,"Burn, Slow",35%,Interrupt,55,5408,330
-,Might,Magmatic Rocks,1.2.1,N,Fire Berserker,Attack,Fire,Rare,3,Multi,Burn,30%,Interrupt,35,1726,331
+ec421fb8-b5c9-4172-85a1-1ea79943b76d,Might,Magmatic Rocks,1.2.1,N,Fire Berserker,Attack,Fire,Rare,3,Multi,Burn,30%,Interrupt,35,1726,331
 ,Might,Chilling Shards,1.2.1,N,Water Valkyrie,Attack,Water,Rare,4,Multi,"Chill, Pierce",20%,Critical,30,1444,332
 ,Skill,Smoke Bomb,1.2.1,N,Spirit Thief,Attack,Spirit,Rare,3,Splash,Evade,30%,Critical,32,1609,333
 ,Skill,Turkey Arrow,1.2.1,N,Fire Rogue,Attack,Fire,Rare,2,Single,Regen,30%,Burn,24,1132,334
@@ -343,7 +343,7 @@ d4229bce-871e-4cd4-8acf-7fd8b4977f8c,Skill,Annoying Elves,1.2.3,N,Earth Elf,Atta
 c4b8b317-52e3-4628-acae-942f59d9d1d8,Magic,Vampiric Bats,1.2.3,N,Spirit Sorcerer,Attack,Spirit,Rare,4,Multi Flurry,Leech,25%,Critical Hit,47,2319,343
 6f4f1fa6-f4c9-43be-94b7-27b6836ccac5,Magic,Discharging Ray,1.2.3,N,Spirit Sorcerer,Attack,Spirit,Rare,2,Single,Leech,15%,Interrupt,31,1529,344
 ,Skill,Backstab,1.2.3,N,Spirit Thief,Attack,Spirit,Super Rare,1,Single,Pierce,20%,Bleed,12,1440,345
-,Magic,Snowballs,1.2.3,N,Water Monk,Attack,Water,Rare,2,Single Flurry,Chill,15%,Critical Hit,34,1677,346
+b450d9b1-ee90-441e-9e30-bd27389d8fef,Magic,Snowballs,1.2.3,N,Water Monk,Attack,Water,Rare,2,Single Flurry,Chill,15%,Critical Hit,34,1677,346
 4f6a9b08-abf3-4162-a30f-9e637b872ed4,Might,Mammoth Shield,1.2.3,N,Water Valkyrie,Shield,Water,Rare,1,Self,None,10%,SPD Up,52,2219,347
 ,Magic,Apnoea,1.2.4,N,Water Monk,Attack,Water,Rare,3,Single,Poison,20%,Wet,32,1576,348
 ,Skill,Voodoo Ritual,1.2.4,N,Water Pirate,Attack,Water,Super Rare,2,Single,ATK Up,25%,ATK Up,18,1768,349
@@ -372,3 +372,5 @@ e169a478-0a5c-40e6-abfd-b5fbd1d0215c,Magic,Scorching Flames,1.2.8,N,Fire Mage,At
 5c7b9ef9-801a-4653-a9f3-6e07f605ed22,Might,Mead Sip,1.2.8,N,Water Valkyrie,Heal,Water,Rare,1,Self,None,30%,DEF Up,61,3009,372
 704f66dd-5c3d-4c1b-a880-f135e228e9b2,Magic,Hex,1.2.8,N,Spirit Sorcerer,Attack,Spirit,Rare,3,Multi,Darken,20%,Double Damage,26,1222,373
 ,Might,Sword of Justice,1.2.0,N,Air Paladin,Attack,Air,Rare,3,Self,Regen,15%,Storm,40,1779,374
+,Skill,Mark of Vengeance,1.2.9,,Water Pirate,Attack,Water,Super Rare,2,Single,Pierce,25%,Mark,28,1506,375
+,Might,Caber Toss,1.2.9,,Fire Berserker,Attack,Fire,Legendary,3,Single,x2 Shield Damage,40%,Reset,80,11817,
