@@ -35,6 +35,8 @@ hero_hp_coef = {
 
 rarity_map = {"Common":"C", "Uncommon":"UC", "Rare":"R", "Super Rare":"SR", "Legendary":"L"};
 
+membership_map = {"Leader":"1", "CoLeader":"2", "Elder":"3", "Member":"4"}
+
 rarity_step = [0.8, 0.85, 0.88, 0.9, 1.0];
 
 rarity_coef = {
