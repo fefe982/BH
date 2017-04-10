@@ -335,7 +335,7 @@ ec421fb8-b5c9-4172-85a1-1ea79943b76d,Might,Magmatic Rocks,1.2.1,N,Fire Berserker
 a47b7446-10e5-4cb8-8424-63ea9c8a0dbb,Skill,Wind Barrier,1.2.1,N,Air Ranger,Shield,Air,Rare,2,Multi,Storm,15%,Critical Hit,64,3158,335
 a7a0d315-74cc-4df2-956e-e892a87201b8,Skill,Guiding Star,1.2.3,N,Air Ranger,Attack,Air,Super Rare,4,Single,None,35%,Shock,65,7686,336
 d4229bce-871e-4cd4-8acf-7fd8b4977f8c,Skill,Annoying Elves,1.2.3,N,Earth Elf,Attack,Earth,Super Rare,2,Single Flurry,Accuracy Down,25%,Interrupt,52,5553,337
-,Might,Christmas Tree,1.2.3,N,Earth Warrior,Attack,Earth,Rare,4,Single,Stun,25%,Interrupt,88,4342,338
+6f64b932-f9f6-4114-bbbe-51d63ac6fb87,Might,Christmas Tree,1.2.3,N,Earth Warrior,Attack,Earth,Rare,4,Single,Stun,25%,Interrupt,88,4342,338
 ,Might,Dirty Bomb,1.2.3,N,Earth Warrior,Attack,Earth,Rare,3,Splash,Terra,20%,Poison,49,,339
 ,Might,Byson Shield,1.2.3,N,Earth Warrior,Shield,Earth,Rare,1,Self,None,10%,SPD Up,46,,340
 ,Might,Fuel the Fire,1.2.3,N,Fire Berserker,Attack,Fire,Rare,3,Splash,Oil,20%,Burn,51,2417,341
@@ -358,7 +358,7 @@ b450d9b1-ee90-441e-9e30-bd27389d8fef,Magic,Snowballs,1.2.3,N,Water Monk,Attack,W
 07057855-3abf-4b2c-929e-4162d3cf767f,Magic,Monk-Fu,1.2.7,N,Water Monk,Attack,Water,Super Rare,3,Single,SPD Up,40%,Critical Hit,59,6301,358
 3a0b5bc5-0490-4412-880d-608d492d4705,Skill,Rooster Arrow,1.2.7,N,Earth Elf,Attack,Earth,Rare,2,Single,Regen,30%,Poison,24,1132,359
 ,Magic,Volcano,1.2.7,N,Fire Mage,Attack,Fire,Super Rare,3,Splash,Charge Trait,35%,ATK Up,50,4617,360
-,Skill,Forest Barrier,1.2.7,N,Earth Elf,Shield,Earth,Rare,2,Multi,Terra,15%,Critical Hit,64,3158,361
+b61051f8-a0e3-409d-af0a-8e07a03f773a,Skill,Forest Barrier,1.2.7,N,Earth Elf,Shield,Earth,Rare,2,Multi,Terra,15%,Critical Hit,64,3158,361
 ,Magic,Witchcraft,1.2.7,N,Earth Witch,Attack,Earth,Rare,2,Single,Poison,15%,Mark,31,1529,362
 ,Skill,Acid Splash,1.2.8,Y,Earth Elf,Attack,Earth,Legendary,3,Splash,Poison,35%,Terra,45,7232,363
 ,Might,Charged Shield,1.2.8,Y,Air Paladin,Shield,Air,Legendary,2,Self,Taunt,30%,Accuracy Up,60,9643,364
