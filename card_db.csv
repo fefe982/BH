@@ -181,7 +181,7 @@ c40bb24c-4e54-4b0f-ac32-71f2c789fc89,Skill,Warm Coffee,1.0.7,Y,Fire Rogue,Heal,F
 816e3f77-21e3-435c-89ab-84fb88e519af,Skill,Hot Coffee,1.0.7,Y,Fire Rogue,Heal,Fire,Uncommon,1,Single,None,20%,SPD Up,40,667,181
 aba268e6-e2f4-48d5-afbd-49a1428a6928,Magic,Poison Grenade,1.0.8,Y,Earth Witch,Attack,Earth,Rare,3,Splash,Poison,20%,Critical Hit,38,1875,182
 67d17802-68a1-445f-adb3-e95c1a05fb62,Magic,Rejuvenate All,1.0.8,Y,Neutral Magic,Heal,Neutral,Super Rare,1,Multi,None,20%,Max HP Up,32,3417,183
-,Magic,Night Cap,1.0.8,Y,Spirit Sorcerer,Heal,Spirit,Super Rare,1,Self,Regen,20%,DEF Up,78,8330,184
+a83d5477-e7f6-4c65-894a-3bfe8c1f4197,Magic,Night Cap,1.0.8,Y,Spirit Sorcerer,Heal,Spirit,Super Rare,1,Self,Regen,20%,DEF Up,78,8330,184
 617a3165-ca3e-4471-9ef7-39497ff45039,Magic,Wet Missile,1.0.8,Y,Water Monk,Attack,Water,Rare,2,Single,Wet,15%,Interrupt,40,1973,185
 ,Magic,Channeling Chi,1.0.8,Y,Water Monk,Attack,Water,Super Rare,2,Random,Darken,25%,Accuracy Up,39,4164,186
 50f78c48-4ec1-4a96-beba-e5bd512c668a,Might,Barrier Crusher,1.0.8,Y,Air Paladin,Attack,Air,Rare,4,Single,Destroy Shield,25%,Interrupt,98,4835,187
@@ -224,7 +224,7 @@ b34db7c6-184e-4020-bff0-d10caf39c43a,Skill,Bullseye,1.0.10,Y,Air Ranger,Attack,A
 5ec6eceb-5fb3-4eef-a6f9-0805466adb44,Skill,Tip Barrage,1.0.10,Y,Earth Elf,Attack,Earth,Rare,4,Multi,None,25%,Interrupt,62,3059,224
 45422bad-aef1-4b06-9722-ad0efc77849c,Skill,Diverting Disc,1.0.10,Y,Fire Rogue,Attack,Fire,Rare,3,Splash,Burn,20%,Bleed,49,2417,225
 1f4b49ed-7c33-41fa-ab0f-6dc2409da139,Skill,Speed Of Light,1.0.10,Y,Fire Rogue,Shield,Fire,Super Rare,2,Self,SPD Up,25%,ATK Up,93,9932,226
-,Skill,Skill,1.0.10,Y,Spirit Thief,Attack,Spirit,Super Rare,2,Single,Break,25%,Darken,48,5126,227
+,Skill,Heart Breaker,1.0.10,Y,Spirit Thief,Attack,Spirit,Super Rare,2,Single,Break,25%,Darken,48,5126,227
 5509a310-d919-4b1e-9ef4-74a7c569ad43,Magic,Box of Frogs,1.1.0,Y,Earth Witch,Attack,Earth,Super Rare,4,Multi Flurry,Poison,35%,Critical Hit,62,6621,228
 8a17b91a-5e69-46e1-bf29-cbea3c8e1877,Magic,Draining Vines,1.1.0,Y,Earth Witch,Attack,Earth,Uncommon,2,Single,None,25%,Sap,30,501,229
 e4588d59-61f6-4980-a28e-c1a65a31041f,Magic,Healing Oils,1.1.0,Y,Fire Mage,Heal,Fire,Super Rare,2,Single,Cure Poison,25%,Critical Hit,89,9505,230
@@ -238,7 +238,7 @@ d0c982be-7ad6-43b2-a75a-6239876d3efa,Might,Burning Club,1.1.0,Y,Fire Berserker,A
 887ef39b-c9fa-451c-ace9-b5bfe32b12f6,Might,Piercing Shard,1.1.0,Y,Water Valkyrie,Attack,Water,Rare,2,Single,Pierce,15%,Critical Hit,26,1282,238
 6ac3dbc8-4915-414e-8c1a-5f2e60beb6b9,Skill,Charged Dart,1.1.0,Y,Air Ranger,Attack,Air,Uncommon,2,Single,None,25%,Shock,39,651,239
 2638178d-c911-4b3c-9e8f-14ea6df8e0b6,Skill,Sleeping Dust,1.1.0,Y,Earth Elf,Attack,Earth,Rare,2,Multi,Sleep,15%,Poison,20,986,240
-,Skill,Ivywood Piercer,1.1.0,Y,Earth Elf,Attack,Earth,Super Rare,1,Single,Poison,20%,Critical Hit,14,1495,241
+b940b3c4-53de-4944-9fc9-798ea222e942,Skill,Ivywood Piercer,1.1.0,Y,Earth Elf,Attack,Earth,Super Rare,1,Single,Poison,20%,Critical Hit,14,1495,241
 df5f0595-d0a0-4d74-b25d-6d7e1f56b171,Skill,Healing Splash,1.1.0,Y,Earth Elf,Heal,Earth,Super Rare,1,Splash,None,20%,Critical Hit,37,3951,242
 ,Skill,Piercing Hellfire,1.1.0,Y,Fire Rogue,Attack,Fire,Super Rare,3,Single,Burn,30%,Bleed,63,6728,243
 ebbf33ea-4886-4886-ba17-1b4c89f92fc7,Skill,Darkness Spike,1.1.0,Y,Spirit Thief,Attack,Spirit,Rare,3,Single,Darken,20%,Critical Hit,54,2665,244
