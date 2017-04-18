@@ -217,7 +217,7 @@ ddcad149-e66b-4006-bd6e-17e68df76f6e,Magic,Confuse Grenade,1.0.10,Y,Spirit Sorce
 e00b8397-aba3-48f6-a7bd-b7ed2caea0dc,Magic,Snake Charmer,1.0.10,Y,Spirit Sorcerer,Attack,Spirit,Super Rare,3,Multi,Charm,30%,Stun,42,4485,217
 b54a490a-bf1b-473d-97fa-b0bda1d96dff,Magic,Chill Missile,1.0.10,Y,Water Monk,Attack,Water,Rare,2,Single,Chill,15%,Wet,26,1282,218
 3d9f3178-23bc-4572-9bc9-febcde86e7c6,Might,Wrath of God,1.0.10,Y,Air Paladin,Attack,Air,Super Rare,6,Multi,Storm,40%,Shock,105,11214,219
-,Might,Firewall,1.0.10,Y,Fire Berserker,Heal,Fire,Super Rare,1,Self,ATK Down,20%,Critical Hit,42,4485,220
+b4d618df-3c6d-4bd4-8dba-d64625706388,Might,Firewall,1.0.10,Y,Fire Berserker,Heal,Fire,Super Rare,1,Self,ATK Down,20%,Critical Hit,42,4485,220
 1193c59b-ce56-4bbc-83bb-82b0b55264bf,Might,Ice Shard,1.0.10,Y,Water Valkyrie,Attack,Water,Super Rare,2,Single,Pierce,25%,Critical Hit,30,3203,221
 32f7e720-f600-4e41-8a23-63aecf469995,Skill,Shocking Dart,1.0.10,Y,Air Ranger,Attack,Air,Rare,1,Single,Shock,10%,Critical Hit,13,641,222
 b34db7c6-184e-4020-bff0-d10caf39c43a,Skill,Bullseye,1.0.10,Y,Air Ranger,Attack,Air,Super Rare,2,Single,Accuracy Up,25%,Shock,40,4271,223
@@ -321,7 +321,7 @@ da5a7ca7-e6b7-4e1a-95f1-e9e8030c719d,Skill,Stingray Dart,1.1.5,N,Water Pirate,At
 3c21250d-b1d9-4938-a9f6-bfc7c2447562,Skill,Terra Tip,1.2.0,Y,Earth Elf,Attack,Earth,Rare,2,Single,Terra,15%,Critical Hit,33,1628,321
 4731299a-ef15-48c0-8605-6a75ed1af4f3,Skill,Fairy Blessing,1.2.0,N,Earth Elf,Heal,Earth,Rare,1,Single,Max HP Up,10%,Critical Hit,51,2516,322
 ,Skill,Faradays Amulet,1.2.0,N,Earth Elf,Shield,Earth,Rare,1,Self,None,10%,Shock,49,2417,323
-,Skill,Black Spot,1.2.0,N,Water Pirate,Attack,Water,Rare,2,Single,Leech,15%,Critical Hit,20,889,324
+58cc65e3-f111-46b9-adc5-fb387544de12,Skill,Black Spot,1.2.0,N,Water Pirate,Attack,Water,Rare,2,Single,Leech,15%,Critical Hit,20,889,324
 2a3f7d1b-1d4b-4031-bddf-787670f63355,Skill,Mistral Strike,1.2.0,N,Water Pirate,Attack,Water,Rare,1,Single,Storm,10%,Critical Hit,28,1442,325
 1d81c968-d770-4911-860d-45674df80e3c,Skill,Hoist the Colours,1.2.0,N,Water Pirate,Heal,Water,Super Rare,2,Multi,SPD Up,25%,ATK Up,69,7369,326
 ,Might,Shocking Bag,1.2.1,N,Air Paladin,Attack,Air,Rare,3,Splash,Shock,30%,Storm,29,1431,327
@@ -338,7 +338,7 @@ d4229bce-871e-4cd4-8acf-7fd8b4977f8c,Skill,Annoying Elves,1.2.3,N,Earth Elf,Atta
 6f64b932-f9f6-4114-bbbe-51d63ac6fb87,Might,Christmas Tree,1.2.3,N,Earth Warrior,Attack,Earth,Rare,4,Single,Stun,25%,Interrupt,88,4342,338
 ,Might,Dirty Bomb,1.2.3,N,Earth Warrior,Attack,Earth,Rare,3,Splash,Terra,20%,Poison,49,,339
 ,Might,Byson Shield,1.2.3,N,Earth Warrior,Shield,Earth,Rare,1,Self,None,10%,SPD Up,46,,340
-,Might,Fuel the Fire,1.2.3,N,Fire Berserker,Attack,Fire,Rare,3,Splash,Oil,20%,Burn,51,2417,341
+e4500c85-4252-49a8-8ee2-f0ceb79c26ed,Might,Fuel the Fire,1.2.3,N,Fire Berserker,Attack,Fire,Rare,3,Splash,Oil,20%,Burn,51,2417,341
 ,Magic,Hot Chestnuts,1.2.3,N,Fire Mage,Shield,Fire,Super Rare,3,Multi,None,30%,Critical Hit,40,4421,342
 c4b8b317-52e3-4628-acae-942f59d9d1d8,Magic,Vampiric Bats,1.2.3,N,Spirit Sorcerer,Attack,Spirit,Rare,4,Multi Flurry,Leech,25%,Critical Hit,47,2319,343
 6f4f1fa6-f4c9-43be-94b7-27b6836ccac5,Magic,Discharging Ray,1.2.3,N,Spirit Sorcerer,Attack,Spirit,Rare,2,Single,Leech,15%,Interrupt,31,1529,344
