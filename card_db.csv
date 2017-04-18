@@ -183,7 +183,7 @@ aba268e6-e2f4-48d5-afbd-49a1428a6928,Magic,Poison Grenade,1.0.8,Y,Earth Witch,At
 67d17802-68a1-445f-adb3-e95c1a05fb62,Magic,Rejuvenate All,1.0.8,Y,Neutral Magic,Heal,Neutral,Super Rare,1,Multi,None,20%,Max HP Up,32,3417,183
 a83d5477-e7f6-4c65-894a-3bfe8c1f4197,Magic,Night Cap,1.0.8,Y,Spirit Sorcerer,Heal,Spirit,Super Rare,1,Self,Regen,20%,DEF Up,78,8330,184
 617a3165-ca3e-4471-9ef7-39497ff45039,Magic,Wet Missile,1.0.8,Y,Water Monk,Attack,Water,Rare,2,Single,Wet,15%,Interrupt,40,1973,185
-,Magic,Channeling Chi,1.0.8,Y,Water Monk,Attack,Water,Super Rare,2,Random,Darken,25%,Accuracy Up,39,4164,186
+2b4d3c80-9cc3-4a5f-8603-4afca8b8d66f,Magic,Channeling Chi,1.0.8,Y,Water Monk,Attack,Water,Super Rare,2,Random,Darken,25%,Accuracy Up,39,4164,186
 50f78c48-4ec1-4a96-beba-e5bd512c668a,Might,Barrier Crusher,1.0.8,Y,Air Paladin,Attack,Air,Rare,4,Single,Destroy Shield,25%,Interrupt,98,4835,187
 1016b51b-f1f2-42aa-a642-cb321e101b3c,Might,Charged Shield,1.0.8,Y,Air Paladin,Shield,Air,Super Rare,2,Self,ATK Down,25%,Critical Hit,58,6193,188
 882a2392-3b7e-48ce-ac29-c6abe62f9b71,Might,Flame On,1.0.8,Y,Fire Berserker,Attack,Fire,Super Rare,4,Single,Self Damage,35%,Stun,136,14525,189
@@ -282,7 +282,7 @@ ae69ac24-4bd0-42f8-9d89-acd4b170ffc6,Magic,Fireproof Protection,1.1.3,N,Neutral 
 316ee8bc-c7c4-4881-86a5-75bdf132616f,Might,Frostbite Shield,1.1.3,Y,Water Valkyrie,Attack,Water,Rare,2,Self,Return Damage,15%,Cure Burn,35,1908,282
 7b2acae1-f1dc-4262-9040-f222297f288f,Skill,Storm Dart,1.1.3,Y,Air Ranger,Attack,Air,Rare,1,Single,Storm,40%,Critical Hit,15,739,283
 9fa2a8c6-5f13-449c-92ca-bc83296b1b22,Skill,Bleeding Thorn,1.1.3,Y,Earth Elf,Attack,Earth,Rare,3,Single,Bleed,15%,Critical Hit,48,2368,284
-,Skill,Fairy Shield,1.1.3,Y,Earth Elf,Shield,Earth,Super Rare,2,Single,Regen,25%,Critical Hit,90,7699,285
+2715c025-d434-4901-8772-53d45137a29f,Skill,Fairy Shield,1.1.3,Y,Earth Elf,Shield,Earth,Super Rare,2,Single,Regen,25%,Critical Hit,90,7699,285
 56591386-7f84-4f5d-aaa4-52e97580dfc4,Skill,Rain Of Fire,1.1.3,Y,Fire Rogue,Attack,Fire,Super Rare,4,Multi Flurry,Burn & Bleed,15%,Critical Hit,56,5980,286
 89db020f-a3e3-4a79-a178-64fb3357c5a0,Skill,Deflective Disc,1.1.3,N,Fire Rogue,Attack,Fire,Uncommon,3,Splash,None,30%,Burn,49,818,287
 127d9845-d175-4f34-936c-33261c879cc8,Skill,Spike Barrage,1.1.3,Y,Spirit Thief,Attack,Spirit,Rare,4,Multi,None,25%,Interrupt,62,3059,288
