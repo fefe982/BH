@@ -37,11 +37,11 @@ for k, g in YY["members"].iteritems():
  
 for b in YY["currentWar"]["battles"]:
     t = {};
-    t["i_name"] = player_map[b["initiator"]["playerId"]]["name"];
+    t["i_name"] = b["initiator"]["playerId"][0:3] + "_" + player_map[b["initiator"]["playerId"]]["name"];
     t["i_guild"] = player_map[b["initiator"]["playerId"]]["guild"];
     t["i_score"] = b["initiator"]["totalScore"];
     t["brag"] = b["completedBragId"] != "";
-    t["o_name"] = player_map[b["opponent"]["playerId"]]["name"];
+    t["o_name"] = b["opponent"]["playerId"][0:3] + "_" + player_map[b["opponent"]["playerId"]]["name"];
     t["o_guild"] = player_map[b["opponent"]["playerId"]]["guild"];
     t["o_score"] = b["opponent"]["totalScore"];
     t["time"] = datetime.datetime.utcfromtimestamp(b["endOfBattleTimestamp"]/1000).strftime('%Y-%m-%d %H:%M:%S')
