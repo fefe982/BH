@@ -342,6 +342,12 @@ def print_player_info(player, f):
     for card_hash in hero["deck"]:
       card = cards[card_hash];
       card_name = card["configId"];
+      evo = " ";
+      for evo_id, evo_res in card["evolutionResults"].iteritems():
+        if evo_id != "" :
+          for e_id, e_val in evo_res.iteritems():
+            if e_val < 1 :
+              evo = "*"
       if card_name in card_db:
         card_info = card_db[card_name];
         #print(card_name);
@@ -359,6 +365,6 @@ def print_player_info(player, f):
           #print(min_v, max_v);
           #print(coef);
           val = (lmax - lmin) / (lvl - 1) * card["level"] + lmin;
-        f.write(u"    ({rarity:>2s},{0},{1:2d},{delay:d}, {2:7.1f}): {type} {target} : {name}\n".format(card["evolutionLevel"], card["level"]+1, val, **card_info));
+        f.write(u"    ({rarity:>2s},{0},{1:2d},{delay:d},{3} {2:7.1f}): {type} {target} : {name}\n".format(card["evolutionLevel"], card["level"]+1, val, evo, **card_info));
       else:
-        f.write(u"    ( _,{1},{2:2d}, ,      .0): : {0}\n".format(card_name, card["evolutionLevel"], card["level"]+1));
+        f.write(u"    ( _,{1},{2:2d}, ,{3}      .0): : {0}\n".format(card_name, card["evolutionLevel"], card["level"]+1, evo));
