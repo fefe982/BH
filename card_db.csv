@@ -313,7 +313,7 @@ d6adcd28-dfd1-486e-8a81-984ac630479c,Might,Hot Boulder,1.1.5,N,Fire Berserker,At
 da5a7ca7-e6b7-4e1a-95f1-e9e8030c719d,Skill,Stingray Dart,1.1.5,N,Water Pirate,Attack,Water,Rare,1,Single,Pierce,10%,Accuracy Down,16,788,313
 cf64c47e-c0fe-4bd5-964f-342fa6b4f2f2,Magic,Feed the Flames,1.2.0,N,Fire Mage,Attack,Fire,Rare,1,Single,Burn,10%,None,18,888,314
 ,Magic,Menacing Gloom,1.2.0,N,Spirit Sorcerer,Shield,Spirit,Rare,2,Multi,None,15%,Critical Hit,53,2614,315
-,Magic,Chilling Jab,1.2.0,N,Water Monk,Attack,Water,Rare,2,Single,None,15%,Chill,18,888,316
+80d64c33-2ae0-4fdf-9032-59c913e18e0b,Magic,Chilling Jab,1.2.0,N,Water Monk,Attack,Water,Rare,2,Single,None,15%,Chill,18,888,316
 ,Might,Sword of Justice,1.2.0,N,Air Paladin,Attack,Air,Rare,3,Self,Regen,15%,Storm,40,1779,317
 68a9f35c-c6ab-4e45-b47d-8aa23bfc431c,Might,Defensive Strike,1.2.0,N,Air Paladin,Attack,Air,Rare,3,Single,DEF Up,20%,Critical Hit,48,2368,318
 dcd07858-cd17-406f-b244-8352af260a4a,Might,Dragonslayer,1.2.0,N,Fire Berserker,Attack,Fire,Super Rare,5,Single,Break,40%,Reset,128,22132,319
@@ -324,7 +324,7 @@ dcd07858-cd17-406f-b244-8352af260a4a,Might,Dragonslayer,1.2.0,N,Fire Berserker,A
 58cc65e3-f111-46b9-adc5-fb387544de12,Skill,Black Spot,1.2.0,N,Water Pirate,Attack,Water,Rare,2,Single,Leech,15%,Critical Hit,20,889,324
 2a3f7d1b-1d4b-4031-bddf-787670f63355,Skill,Mistral Strike,1.2.0,N,Water Pirate,Attack,Water,Rare,1,Single,Storm,10%,Critical Hit,28,1442,325
 1d81c968-d770-4911-860d-45674df80e3c,Skill,Hoist the Colours,1.2.0,N,Water Pirate,Heal,Water,Super Rare,2,Multi,SPD Up,25%,ATK Up,69,7369,326
-,Might,Shocking Bag,1.2.1,N,Air Paladin,Attack,Air,Rare,3,Splash,Shock,30%,Storm,29,1431,327
+f14760f0-eb44-40dc-b4e9-31b4e641b557,Might,Shocking Bag,1.2.1,N,Air Paladin,Attack,Air,Rare,3,Splash,Shock,30%,Storm,29,1431,327
 db67ce85-fac9-405c-8d42-9991af448c2a,Skill,Diverting Pin,1.2.1,N,Air Ranger,Attack,Air,Rare,3,Splash,None,40%,Critical,48,2368,328
 86ddfa8c-b16d-4f1a-ada0-6cdd46a5f6b9,Magic,Feed the Toxins,1.2.1,N,Earth Witch,Attack,Earth,Rare,1,Single,None,25%,Extend Poison,18,888,329
 d44fb94a-9358-4ca6-a2bb-7ca409d9c7f6,Magic,*Lava Wave,1.2.1,N,Fire Mage,Attack,Fire,Super Rare,4,Multi,"Burn, Slow",35%,Interrupt,55,5408,330
