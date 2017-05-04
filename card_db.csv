@@ -331,7 +331,7 @@ d44fb94a-9358-4ca6-a2bb-7ca409d9c7f6,Magic,*Lava Wave,1.2.1,N,Fire Mage,Attack,F
 ec421fb8-b5c9-4172-85a1-1ea79943b76d,Might,Magmatic Rocks,1.2.1,N,Fire Berserker,Attack,Fire,Rare,3,Multi,Burn,30%,Interrupt,35,1726,331
 08887160-a578-44b6-ade9-69c18f5b4c4b,Might,Chilling Shards,1.2.1,N,Water Valkyrie,Attack,Water,Rare,4,Multi,"Chill, Pierce",20%,Critical,30,1444,332
 e819d738-0a30-446d-834b-e3a951e53a60,Skill,Smoke Bomb,1.2.1,N,Spirit Thief,Attack,Spirit,Rare,3,Splash,Evade,30%,Critical,32,1609,333
-,Skill,Turkey Arrow,1.2.1,N,Fire Rogue,Attack,Fire,Rare,2,Single,Regen,30%,Burn,24,1132,334
+1db6f727-5712-4a66-9426-f2ca6ef815a0,Skill,Turkey Arrow,1.2.1,N,Fire Rogue,Attack,Fire,Rare,2,Single,Regen,30%,Burn,24,1132,334
 a47b7446-10e5-4cb8-8424-63ea9c8a0dbb,Skill,Wind Barrier,1.2.1,N,Air Ranger,Shield,Air,Rare,2,Multi,Storm,15%,Critical Hit,64,3158,335
 a7a0d315-74cc-4df2-956e-e892a87201b8,Skill,Guiding Star,1.2.3,N,Air Ranger,Attack,Air,Super Rare,4,Single,None,35%,Shock,65,7686,336
 d4229bce-871e-4cd4-8acf-7fd8b4977f8c,Skill,Annoying Elves,1.2.3,N,Earth Elf,Attack,Earth,Super Rare,2,Single Flurry,Accuracy Down,25%,Interrupt,52,5553,337
