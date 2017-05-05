@@ -320,7 +320,7 @@ dcd07858-cd17-406f-b244-8352af260a4a,Might,Dragonslayer,1.2.0,N,Fire Berserker,A
 1be1fdc3-6da4-42e1-8d2a-59386689a7a5,Might,Chill Axe,1.2.0,N,Water Valkyrie,Attack,Water,Rare,5,Multi,Chill,30%,Critical Hit,42,2072,320
 3c21250d-b1d9-4938-a9f6-bfc7c2447562,Skill,Terra Tip,1.2.0,Y,Earth Elf,Attack,Earth,Rare,2,Single,Terra,15%,Critical Hit,33,1628,321
 4731299a-ef15-48c0-8605-6a75ed1af4f3,Skill,Fairy Blessing,1.2.0,N,Earth Elf,Heal,Earth,Rare,1,Single,Max HP Up,10%,Critical Hit,51,2516,322
-,Skill,Faradays Amulet,1.2.0,N,Earth Elf,Shield,Earth,Rare,1,Self,None,10%,Shock,49,2417,323
+c515a145-b301-491d-8bce-a1f30ca9b5bf,Skill,Faradays Amulet,1.2.0,N,Earth Elf,Shield,Earth,Rare,1,Self,None,10%,Shock,49,2417,323
 58cc65e3-f111-46b9-adc5-fb387544de12,Skill,Black Spot,1.2.0,N,Water Pirate,Attack,Water,Rare,2,Single,Leech,15%,Critical Hit,20,889,324
 2a3f7d1b-1d4b-4031-bddf-787670f63355,Skill,Mistral Strike,1.2.0,N,Water Pirate,Attack,Water,Rare,1,Single,Storm,10%,Critical Hit,28,1442,325
 1d81c968-d770-4911-860d-45674df80e3c,Skill,Hoist the Colours,1.2.0,N,Water Pirate,Heal,Water,Super Rare,2,Multi,SPD Up,25%,ATK Up,69,7369,326
