@@ -296,7 +296,7 @@ d6af58cd-9bf8-43b7-995b-0264efe1c791,Skill,Piranha Pistol,1.1.4,Y,Water Pirate,A
 e7d163ef-eb23-4816-940c-afd10e452385,Skill,Rum Shower,1.1.4,Y,Water Pirate,Attack,Water,Rare,2,Single,Oil,15%,Confuse,45,2187,296
 d0c8ef43-b8bd-4507-abaa-2b4222217e6a,Skill,Oyster Blunderbuss,1.1.4,Y,Water Pirate,Attack,Water,Rare,3,Splash,Interrupt,20%,Critical Hit,43,2121,297
 71fb1bfb-fa36-4232-8100-7945ab572b31,Skill,Shark Cannon,1.1.4,Y,Water Pirate,Attack,Water,Super Rare,3,Splash,Bleed,30%,Wet,40,3865,298
-,Skill,The Kraken,1.1.4,Y,Water Pirate,Attack,Water,Super Rare,4,Multi,Interrupt,35%,Poison,32,3417,299
+65736180-a93d-4ec7-9358-e2c384064a1e,Skill,The Kraken,1.1.4,Y,Water Pirate,Attack,Water,Super Rare,4,Multi,Interrupt,35%,Poison,32,3417,299
 fe64ef34-c4a3-46f2-bfea-ea5e3c1fbaa2,Skill,Sardine Pistol,1.1.4,Y,Water Pirate,Attack,Water,Uncommon,2,Single,None,25%,Wet,39,651,300
 2b6eb0b3-8118-4d6a-a038-6579c359d8ab,Skill,Whelk Blunderbuss,1.1.4,Y,Water Pirate,Attack,Water,Uncommon,3,Splash,None,30%,Interrupt,50,834,301
 ef9304db-0cb0-4638-b69d-d96d5295e1d3,Skill,Fishbone Cutlass,1.1.4,Y,Water Pirate,Attack,Water,Uncommon,2,Single,None,25%,Critical Hit,32,533,302
@@ -390,7 +390,7 @@ e169a478-0a5c-40e6-abfd-b5fbd1d0215c,Magic,Scorching Flames,1.2.8,N,Fire Mage,At
 ,Skill,Heart Breaker,1.2.9,N,Spirit Thief,Attack,Spirit,Legendary,2,Single,Break,30%,Darken,60,5606,390
 ,Magic,Easter Eggs,1.2.9,N,Water Monk,Attack,Water,Super Rare,3,Single,SPD Up,30%,Critical Hit,59,2050,391
 780ba3a6-35ca-461c-89ab-2e575e59e257,Might,Pyroclastic Strike,1.2.9,N,Fire Berserker,Attack,Fire,Super Rare,3,Multi,Burn,30%,Interrupt,40,4484,392
-,Skill,Obscuring Explode,1.2.9,N,Spirit Thief,Attack,Spirit,Super Rare,3,Splash,Accuracy Down,30%,Critical Hit,44,3424,393
+4c29bf06-eea8-4d39-ad61-bba6f0f40785,Skill,Obscuring Explode,1.2.9,N,Spirit Thief,Attack,Spirit,Super Rare,3,Splash,Accuracy Down,30%,Critical Hit,44,3424,393
 1befda1c-0d2c-4ecd-ae36-c49e1bb5b4d5,Skill,Electric Shot,1.2.9,N,Air Ranger,Attack,Air,Rare,1,Single,None,10%,Shock,20,1097,394
 ,Magic,Tides Control,1.2.9,N,Water Monk,Shield,Water,Rare,2,Multi,Regen,15%,Wet,29,2064,395
 9502705e-3370-4cf0-87f5-38ef0b7ddfed,Magic,Deadly Venom,1.2.9,N,Earth Witch,Attack,Earth,Super Rare,1,Single,None,20%,Poison,21,1541,396
